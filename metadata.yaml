@@ -1,0 +1,28 @@
+_repo: Malcolm_7127
+creator:
+  author:
+    agent_name: MacDonald, George
+    birthdate: 1824
+    deathdate: 1905
+    gutenberg_agent_id: '127'
+    url: http://www.gutenberg.org/2009/agents/127
+    wikipedia: http://en.wikipedia.org/wiki/George_MacDonald
+description: Malcolm, a nineteenth-century Scottish fisherman, is captivated by a
+  willful, adventurous girl whom he dares not love, until he discovers a startling
+  secret about her.
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Fishers -- Fiction'
+- !lcsh 'Christian fiction'
+title: Malcolm
+url: http://www.gutenberg.org/ebooks/7127
