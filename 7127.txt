@@ -28,8 +28,8 @@ Title: Malcolm
 Author: George MacDonald
 
 Release Date: December, 2004 [EBook #7127]
-[Yes, we are more than one year ahead of schedule]
 [This file was first posted on March 13, 2003]
+Last Updated: July 19, 2016
 
 Edition: 10
 
@@ -55,7 +55,7 @@ by George MacDonald
 CHAPTER I: MISS HORN
 
 
-"Na, na; I hae nae feelin's, I'm thankfu' to say. I never kent ony
+"Na, na; I hae nae feelin's,  thankfu' to say. I never kent ony
 guid come o' them. They're a terrible sicht i' the gait."
 
 "Naebody ever thoucht o' layin' 't to yer chairge, mem."
@@ -106,7 +106,7 @@ of her late companion.
 cam' o' haein mair hert nor brains. She had feelin's gien ye like--
 and to spare. But I never took ower ony o' the stock. It's a pity
 she hadna the jeedgment to match, for she never misdoobted onybody
-eneuch. But I wat it disna maitter noo, for she's gane whaur it's
+eneuch. But I wat it disna maitter noo, for she's gane whaur it 's
 less wantit. For ane 'at has the hairmlessness o' the doo 'n this
 ill wulled warl', there's a feck o' ten 'at has the wisdom o' the
 serpent. An' the serpents mak sair wark wi' the doos--lat alane
@@ -117,9 +117,9 @@ she was aye some easy to perswaud. I hae nae doubt she believed to
 the ver' last he wad come back and mairry her."
 
 "Come back and mairry her! Wha or what div ye mean? I jist tell ye
-Mistress Mellis--an' it's weel ye're named--gien ye daur to
-hint at ae word o' sic clavers, it's this side o' this door o' mine
-ye's be less acquant wi'."
+Mistress Mellis--an' it 's weel ye're named--gien ye daur to
+hint at ae word o' sic clavers, it 's this side o' this door o' mine
+ye s' be less acquant wi'."
 
 As she spoke, the hawk eyes of Miss Horn glowed on each side of
 her hawk nose, which grew more and more hooked as she glared, while
@@ -133,11 +133,11 @@ sae by ordinar 's that?"
 "Said!" repeated Miss Horn, in a tone that revealed both annoyance
 with herself and contempt for her visitor. "There's no a claver in
 a' the countryside but ye maun fess 't hame aneth yer oxter, as
-gin 't were the prodigal afore he repentit. Ye's get sma thanks for
+gin 't were the prodigal afore he repentit. Ye s' get sma thanks for
 sic like here. An' her lyin' there as she'll lie till the jeedgment
 day, puir thing!"
 
-"I'm sure I meant no offence, Miss Horn," said her visitor. "I
+" sure I meant no offence, Miss Horn," said her visitor. "I
 thocht a' body kent 'at she was ill about him."
 
 "Aboot wha, i' the name o' the father o' lees?"
@@ -146,7 +146,7 @@ thocht a' body kent 'at she was ill about him."
 dee'd afore he wan across the equautor. Only fouk said he was nae
 mair deid nor a halvert worm, an' wad be hame whan she was merried."
 
-"It's a' lees frae heid to fiit, an' frae bert to skin."
+"It's a' lees frae heid to fit, an' frae bert to skin."
 
 "Weel, it was plain to see she dwyned awa efter he gaed, an' never
 was hersel' again--ye dinna deny that?"
@@ -157,7 +157,7 @@ She dwyned, I grant ye, an' he gaed awa, I grant ye; but the win'
 blaws an' the water rins, an the tane has little to du wi' the
 tither."
 
-"Weel, weel; I'm sorry I said onything to offen' ye, an' I canna
+"Weel, weel;  sorry I said onything to offen' ye, an' I canna
 say mair. Wi' yer leave, Miss Horn, I'll jist gang an' tak' a last
 leuk at her, puir thing!"
 
@@ -230,13 +230,13 @@ hae her laid canny intill 't, an' hae dune wi' 't."
 "Weel, mem, for a leddy born, like yersel', I maun say, ye tak it
 unco composed!"
 
-"I'm no awaur, Mistress Catanach, o' ony necessity laid upo' ye
+" no awaur, Mistress Catanach, o' ony necessity laid upo' ye
 to say yer min' i' this hoose. It's no expeckit. But what for sud
 I no tak' it wi' composur'? We'll hae to tak' oor ain turn er lang,
 as composed as we hae the skiel o', and gang oot like a lang nibbit
 can'le--ay, an lea' jist sic a memory ahin' some o' 's, Bawby."
 
-"I kenna gien ye mean me, Miss Horn," said the woman; "but it's no
+"I kenna gien ye mean me, Miss Horn," said the woman; "but it 's no
 that muckle o' a memory I expec' to lea' ahin' me."
 
 "The less the better," muttered Miss Horn; but her unwelcome visitor
@@ -246,7 +246,7 @@ went on:
 canna be said to hae muckle to be thankfu' for. It's God's trowth,
 I ken waur nor ever I did mem. A body in my trade canna help fa'in'
 amo' ill company whiles, for we're a' born in sin, an' brocht furth
-in ineequity, as the Buik. says; in fac', it's a' sin thegither: we
+in ineequity, as the Buik says; in fac', it 's a' sin thegither: we
 come o' sin an' we gang for sin; but ye ken the likes o' me maunna
 clype (tell tales). A' the same, gien ye dinna tak the help o' my
 han', ye winna refuse me the sicht o' my een, puir thing!"
@@ -274,12 +274,12 @@ Miss Horn, and drew down her long upper lip in a strong arch.
 "Ca cannie! ca cannie! (drive gently)," said Bawby. "Dinna anger
 me ower sair, for I am but mortal. Fowk tak a heap frae you, Miss
 Horn, 'at they'll tak frae nane ither, for your temper's weel kent,
-an' little made o'; but it's an ill faured thing to anger the howdie
---sae muckle lies upo' her; an, I'm no i' the tune to put up wi'
+an' little made o'; but it 's an ill faured thing to anger the howdie
+--sae muckle lies upo' her; an'  no i' the tune to put up wi'
 muckle the nicht. I wonner at ye bein' sae oonneebourlike--at
 sic a time tu, wi' a corp i' the hoose!"
 
-"Gang awa--gan oot o't: it's my hoose," said Miss Horn, in a low,
+"Gang awa--gang oot o't: it 's my hoose," said Miss Horn, in a low,
 hoarse voice, restrained from rising to tempest pitch only by the
 consciousness of what lay on the other side of the ceiling above
 her head. "I wad as sune lat a cat intill the deid chaumer to gang
@@ -306,7 +306,7 @@ of one who waited her answer in the affirmative as a preliminary
 condition of all further conversation.
 
 "She's gane, mem," answered Jean--adding to herself in a wordless
-thought, "I'm no sayin' whaur."
+thought, " no sayin' whaur."
 
 "She's a wuman I wadna hae ye throng wi', Jean."
 
@@ -318,7 +318,7 @@ force than fitness.
 Jean, however, was on the shady side of fifty, more likely to have
 already yielded than to be liable to a first assault of corruption;
 and little did Miss Horn think how useless was her warning, or
-where Barbara Catanach was at that very moment Trusting to Jean's
+where Barbara Catanach was at that very moment. Trusting to Jean's
 cunning, as well she might; she was in the dead chamber, and
 standing over the dead. She had folded back the sheet--not from
 the face, but from the feet--and raised the night dress of fine
@@ -326,10 +326,10 @@ linen in which the love of her cousin had robed the dead for the
 repose of the tomb.
 
 "It wad hae been tellin' her," she muttered, "to hae spoken Bawby
-fair! I'm no used to be fa'en foul o' that gait. I 's be even
-wi' her yet, I'm thinkin'--the auld speldin'! Losh! and Praise
-be thankit! there it's! It's there!--a wee darker, but the same
---jist whaur I could ha' laid the pint o' my finger upo't i' the
+fair!  no used to be fa'en foul o' that gait. I s' be even
+wi' her yet,  thinkin'--the auld speldin'! Losh! and Praise
+be thankit! there it 's! It's there!--a wee darker, but the same
+--jist whaur I could ha' laid the pint o' my finger upo' 't i' the
 mirk!--Noo lat the worms eat it," she concluded, as she folded
 down the linen of shroud and sheet--"an' no mortal ken o' 't but
 mysel' an' him 'at bude till hae seen 't, gien he was a hair better
@@ -424,8 +424,8 @@ about the tane as the tither," she answered with a low oily guttural
 laugh of contemptuous pity.
 
 "I ken mair nor that mysel', but no muckle," said the man. "I dinna
-ken whaur I cam frae, and I dinna ken whaur I'm gaun till; but I
-ken 'at I'm gaun whaur I cam frae. That stan's to rizzon, ye see;
+ken whaur I cam frae, and I dinna ken whaur  gaun till; but I
+ken 'at  gaun whaur I cam frae. That stan's to rizzon, ye see;
 but they telled me 'at ye kenned a' about whaur we a' cam frae."
 
 "Deil a bit o' 't!" persisted Mrs Catanach, in tones of repudiation.
@@ -680,9 +680,9 @@ grippit ye."
 voice; "the wullcat sanna touch ye. Ye're no fleyt at me, are ye?"
 
 "Na!" answered the child. "What for sud I be fleyt at you, sir?
-I'm Phemy Mair."
+ Phemy Mair."
 
-"Eh, bairnie! it's you, is't?" he returned in tones of satisfaction,
+"Eh, bairnie! it 's you, is't?" he returned in tones of satisfaction,
 for he had not hitherto recognised her. "Sit ye doon, sit ye doon,
 an' we'll see about it a'."
 
@@ -865,7 +865,7 @@ for."
 
 "No. Why should you go on your knees?"
 
-"'Cause ye're 'maist ower bonny to luik at stan'in', mem, an' I'm
+"'Cause ye're 'maist ower bonny to luik at stan'in', mem, an'
 feared for angerin' ye."
 
 "Don't say ma'am to me."
@@ -908,7 +908,7 @@ aware he ought not to manifest more shamefacedness than the lady
 herself, or that he was hardly more accustomed to the sight of
 gleaming fish than the bare feet of maidens.
 
-"I'm thinkin', my leddy," he went on, in absolute simplicity, "that
+" thinkin', my leddy," he went on, in absolute simplicity, "that
 sma' fut o' yer ain has danced mony a braw dance on mony a braw
 flure."
 
@@ -917,7 +917,7 @@ the garment over her foot by the shortest possible stages.
 
 "Ye'll no be muckle ower twenty," he said.
 
-"I'm only sixteen," she returned, laughing merrily.
+" only sixteen," she returned, laughing merrily.
 
 "What will ye be or ye behaud!" he exclaimed, after a brief pause
 of astonishment.
@@ -960,7 +960,7 @@ for the plenishin'."
 talk.
 
 "Ow, skate an' mustard to eat, an' whusky to drink," answered the
-lad, laughing. "But it's mair for the fun. I dinna care muckle
+lad, laughing. "But it 's mair for the fun. I dinna care muckle
 about whusky an' that kin' o' thing mysel'. It's the fiddles an
 the dancin' 'at I like."
 
@@ -988,7 +988,7 @@ o' the tap o' a jaw (billow)."
 
 "It nearly blew me out of my small wits, though."
 
-"I'm verra sorry it frichtit ye. But, gien I had seen ye, I bude
+" verra sorry it frichtit ye. But, gien I had seen ye, I bude
 to fire the gun."
 
 "I don't understand you quite; but I suppose you mean it was your
@@ -998,10 +998,10 @@ business to fire the gun."
 
 "Why?"
 
-"'Cause it's been decreet i' the toon cooncil that at sax o' the
+"'Cause it 's been decreet i' the toon cooncil that at sax o' the
 clock ilka mornin' that gun's to be fired--at least sae lang's
-my lord, the marquis, is at Portlossie Hoose. Ye see it's a royal
-brugh, this, an' it costs but aboot a penny, an' it's gran' like
+my lord, the marquis, is at Portlossie Hoose. Ye see it 's a royal
+brugh, this, an' it costs but aboot a penny, an' it 's gran' like
 to hae a sma' cannon to fire. An' gien I was to neglec' it, my
 gran'father wad gang on skirlin'--what's the English for skirlin',
 my leddy--skirlin' o' the pipes?"
@@ -1160,7 +1160,7 @@ yearly more and more asthmatic: notwithstanding which Duncan MacPhail
 would not hear of resigning the dignity of town piper.
 
 "That's fine, daddy," returned the youth. "Wull I mak oot the
-parritch? I'm thinkin ye've had eneuch o' hingin' ower the fire
+parritch?  thinkin ye've had eneuch o' hingin' ower the fire
 this het mornin'."
 
 "No, sir," answered Duncan. "She'll pe perfectly able to make ta
@@ -1262,7 +1262,7 @@ new thing after prayers.
 you would be learnin' to speak your own lancuach. It is all fery
 well for ta Sassenach (Saxon, i.e., non-Celtic) podies to read ta
 Piple in English, for it will be pleasing ta Maker not to make tem
-cawpable of ta Gaelic, no more tan monkeys; but for all tat it's
+cawpable of ta Gaelic, no more tan monkeys; but for all tat it 's
 not ta vord of God. Ta Gaelic is ta lancuach of ta carden of Aiden,
 and no doubt but it pe ta lancuach in which ta Shepherd calls his
 sheep on ta everlastin' hills. You see, Malcolm, it must be so,
@@ -1304,7 +1304,7 @@ the space of a minute.
 "It will not be paad for a peginning, Malcolm. She cannot say
 it shust pe vorts, or tat tere pe much of ta sense in it; but it
 pe fery like what ta pabes will say pefore tey pekin to speak it
-properly. So it's all fery well, and if you will only pe putting
+properly. So it 's all fery well, and if you will only pe putting
 your mouth in ta Gaelic shape often enough, ta sounds will soon
 pe taking ta shape of it, and ta vorts will be coming trough ta
 mists, and pefore you know, you'll pe peing a creat credit to your
@@ -1426,7 +1426,7 @@ up sic a fine lad as that Malcolm o' his."
 "Weel, ye see, Providence has been kin' till him as weel 's ither
 blin' craturs. The toon's pipin' 's no to be despised; an' there's
 the cryin', an' the chop, an' the lamps. 'Deed he's been an eident
-(diligent) cratur--an' for a blin' man, as ye say, it's jist
+(diligent) cratur--an' for a blin' man, as ye say, it 's jist
 exterordinar."
 
 "Div ye min' whan first he cam' to the toon, lass?"
@@ -1443,7 +1443,7 @@ failed sin syne."
 
 "Ay, they say, but wha kens? Duncan could never be gotten to open
 his mou' as to the father or mither o' 'im, an' sae it weel may be
-as they say. It's nigh twenty year noo, I'm thinkin' sin he made's
+as they say. It's nigh twenty year noo,  thinkin' sin he made's
 appearance. Ye wasna come frae Scaurnose er' than."
 
 "Some fowk says the auld man's name's no MacPhail, an' he maun
@@ -1890,7 +1890,7 @@ time to change the subject, the housekeeper turned to Malcolm.
 "Could you bring me a nice mackerel or whiting for my lord's
 breakfast tomorrow morning, Malcolm?" she said.
 
-"Certaintly, mem. I 's be wi ye in guid time wi' the best the sea
+"Certaintly, mem. I s' be wi ye in guid time wi' the best the sea
 'll gie me," he answered.
 
 "If I have the fish by nine o'clock, that will be early enough,"
@@ -1916,7 +1916,7 @@ and his dog."
 
 "Well, I wad rather be up ear'," said Malcolm; "a heap raither. I
 like fine to be oot i' the quaiet o' the mornin' afore the sun's
-up to set the din gaun; whan it's a' clear but no bricht--like
+up to set the din gaun; whan it 's a' clear but no bricht--like
 the back o' a bonny sawmon; an' air an' watter an' a' luiks as
 gien they war waitin' for something--quaiet, verra quaiet, but
 no content."
@@ -2003,7 +2003,7 @@ The marquis nodded and passed on, but the next moment, hearing the
 noise of Malcolm's proceedings with the swivel, turned and said--
 "What are you about there with that gun, my lad?"
 
-"I'm jist ga'in' to dicht her oot an' lod her, my lord," answered
+" jist ga'in' to dicht her oot an' lod her, my lord," answered
 Malcolm.
 
 "And what next? You're not going to fire the thing?"
@@ -2026,8 +2026,8 @@ are inadequate."
 
 "It's a comfort to hear that, my lord; for I canna aye be sure o'
 my auld watch, an' may weel be oot a five minutes or twa whiles.
-Sae, in future, seem' it's o' sic sma' consequence to yer lordship,
-I s' jist let her aff whan it's convenient. A feow minutes winna
+Sae, in future, seem' it 's o' sic sma' consequence to yer lordship,
+I s' jist let her aff whan it 's convenient. A feow minutes winna
 maitter muckle to the bailie bodies."
 
 There was something in Malcolm's address that pleased Lord Lossie
@@ -2050,7 +2050,7 @@ piper at Ceanglas."
 "I'll fess him wi' me the morn, gien ye like, my lord, for I'll
 be ower wi' some fine troot or ither, gien I haena the waur luck,
 the morn's mornin': Mistress Courthope says she'll be aye ready for
-ane to fry to yer lordship's brakfast. But I'm thinkin' that'll be
+ane to fry to yer lordship's brakfast. But  thinkin' that'll be
 ower ear' for ye to see him."
 
 "I'll send for him when I want him. Go on with your brazen serpent
@@ -2149,7 +2149,7 @@ fine an' quaiet."
 
 "Is your boat clean?"
 
-"O' a' thing but fish. But na, it's no fit for sic a bonny goon as
+"O' a' thing but fish. But na, it 's no fit for sic a bonny goon as
 that. I winna lat ye gang the day, my leddy; but gien ye like to
 be here the morn's mornin', I s' be here at this same hoor, an'
 hae my boat as clean's a Sunday sark."
@@ -2256,7 +2256,7 @@ basket.
 
 "I tell ye, Mistress Catanach," said Malcolm, drawing back now
 in the fear that if she once had it she would not yield it again,
-"it's gauin' up to the Hoose!"
+"it 's gauin' up to the Hoose!"
 
 "Hoots! there's naebody there seen 't yet. It's new oot o' the
 watter."
@@ -2268,7 +2268,7 @@ I cud heuk."
 Gie me the trootie, Ma'colm. Ye're a bonny laad, an 'it s' be the
 better for ye."
 
-"Deed I cudna du 't, Mistress Catanach--though I'm sorry to
+"Deed I cudna du 't, Mistress Catanach--though  sorry to
 disobleege ye. It's bespoken, ye see. But there's a fine haddie,
 an' a bonny sma' coddie, an' a goukmey (gray gurnard)."
 
@@ -2287,7 +2287,7 @@ mak ony mair offers frae my creel."
 The woman's face grew dark with anger. "It s' be the waur for ye,"
 she cried.
 
-"I'm no gauin' to be fleyt (frightened) at ye. Ye're no sic a witch
+" no gauin' to be fleyt (frightened) at ye. Ye're no sic a witch
 as that comes till, though ye div ken a body's fit upo' the flags!
 My blin' luckie deddy can du mair nor that!" said Malcolm, irritated
 by her persistency, threats and evil looks.
@@ -2374,19 +2374,19 @@ I don't care about the trout. Just take it to her as you go back."
 "I doobt gien she'll take it, mem. She's an awfu' vengefu' cratur,
 fowk says."
 
-"You remind me, Malcolm," returned Mrs Courthope, "that I'm not at
+"You remind me, Malcolm," returned Mrs Courthope, "that  not at
 ease about your grandfather. He is not in a Christian frame of mind
 at all--and he is an old man too. If we don't forgive our enemies,
 you know, the Bible plainly tells us we shall not be forgiven
 ourselves."
 
-"I'm thinkin' it was a greater nor the Bible said that, mem,"
+" thinkin' it was a greater nor the Bible said that, mem,"
 returned Malcolm, who was an apt pupil of Mr Graham. "But ye'll be
 meanin' Cawmill o' Glenlyon," he went on with a smile. "It canna
 maitter muckle to him whether my gran'father forgie him or no,
 seein' he's been deid this hunner year."
 
-"It's not Campbell of Glenlyon, it's your grandfather I am anxious
+"It's not Campbell of Glenlyon, it 's your grandfather I am anxious
 about," said Mrs Courthope. "Nor is it only Campbell of Glenlyon
 he's so fierce against, but all his posterity as well."
 
@@ -2410,7 +2410,7 @@ fowk 'at ye come to ken yersel, mem--isna't noo?"
 He hears them, and he feels them, and indeed has generally more
 kindness from them because of his affliction."
 
-"Frae some o' them, mem; but it's little kin'ness my gran'father
+"Frae some o' them, mem; but it 's little kin'ness my gran'father
 has expairienced frae Cawmill o' Glenlyon, mem."
 
 "And just as little injury, I should suppose," said Mrs Courthope.
@@ -2433,9 +2433,9 @@ even, I do believe he wad no more drive his durk intill him."
 "Drive his dirk into him!" echoed Mrs Courthope, in horror at the
 very disclaimer.
 
-"No, I'm sure he wad not," persisted Malcolm, innocently. "He micht
+"No,  sure he wad not," persisted Malcolm, innocently. "He micht
 not tak him oot o' a pot (hole in a riverbed), but he wad neither
-durk him nor fling him in. I'm no that sure he wadna even ran
+durk him nor fling him in.  no that sure he wadna even ran
 (reach) him a han'. Ae thing I am certain o',--that by the time
 he meets Glenlyon in haven, he'll be no that far frae lattin'
 byganes be byganes."
@@ -2533,14 +2533,14 @@ feelin's, or what wad hae come o' me! Whaur's the gude o' greetin?
 It's no worth the saut i' the watter o' 't, Ma'colm. It's an ill
 wardle, an micht be a bonny ane--gien't warna for ill men."
 
-"'Deed, mem! I'm thinkin' mair aboot ill women, at this prasent,"
+"'Deed, mem!  thinkin' mair aboot ill women, at this prasent,"
 said Malcolm. "Maybe there's no sic a thing, but yon's unco like ane.
-As bonny a sawmon troot 's ever ye saw, mem! It's a' I'm cawpable
+As bonny a sawmon troot 's ever ye saw, mem! It's a'  cawpable
 o' to haud ohn cursed that foul tyke o' hers."
 
 "Hoot, laddie! haud yer tongue."
 
-"Ay will I. I'm na gaun to du 't, ye ken. But sic a fine troot 's
+"Ay will I.  na gaun to du 't, ye ken. But sic a fine troot 's
 that--the verra ane ye wad hae likit, mem!"
 
 "Never ye min' the troot. There's mair whaur that cam frae. What
@@ -2564,7 +2564,7 @@ you, sae lang's she was here," she added after a short pause.
 
 The youth hesitated.
 
-"I never saw a corp i' my life, mem, an' I'm jist some feared," he
+"I never saw a corp i' my life, mem, an'  jist some feared," he
 said, after another brief silence.
 
 "Hoot, laddie!" returned Miss Horn, in a somewhat offended tone.
@@ -2631,7 +2631,7 @@ glass of wine.
 "Ye'll come to the beerial upo' Setterday?" she asked, half inviting,
 half enquiring.
 
-"I'm sorry to say, mem, 'at I canna," he answered. "I promised
+" sorry to say, mem, 'at I canna," he answered. "I promised
 Maister Graham to tak the schule for him, an' lat him gang."
 
 "Weel, weel! Mr Graham's obleeged to ye, nae doobt, an' we canna
@@ -2703,7 +2703,7 @@ risen anger spoke aloud, caring nothing who heard her. "Daur ye
 preshume, Watty Witherspaill," she went on, "for no rizzon but that
 I ga'e you the job, an' unnertook to pay ye for't--an' that far
 abune its market value,--daur ye preshume, I say, to dictate to
-me what I'm to du an' what I'm no to du anent the maitter in han'?
+me what  to du an' what  no to du anent the maitter in han'?
 Think ye I hae been a mither to the puir yoong thing for sae mony
 a year to lat her gang awa' her lane at the last wi' the likes o'
 you for company!"
@@ -2711,7 +2711,7 @@ you for company!"
 "Hoot, mem! there's the minister at yer elbuck."
 
 "I tell ye, ye're but a wheen rouch men fowk! There's no a wuman
-amon' ye to haud things dacent, 'cep I gang mysel'. I'm no beggin'
+amon' ye to haud things dacent, 'cep I gang mysel'.  no beggin'
 the minister's pardon ather. I'll gang. I maun see my puir Grizel
 till her last bed."
 
@@ -2720,7 +2720,7 @@ the minister, who being an ambitious young man of lowly origin, and
 very shy of the ridiculous, did not in the least wish her company.
 
 "Feelin's!" exclaimed Miss Horn, in a tone of indignant repudiation;
-"I'm gauin' to du what's richt. I s' gang, and gien ye dinna like
+" gauin' to du what's richt. I s' gang, and gien ye dinna like
 my company, Mr Cairns, ye can gang hame, an' I s' gang withoot ye.
 Gien she sud happen to be luikin doon, she sanna see me wantin'
 at the last o' her. But I s' mak' no wark aboot it. I s' no putt
@@ -3053,7 +3053,7 @@ and so keeps it to himself, you see."
 another. And some people would be waik of heart, and be letting
 teir enemies co."
 
-"I suspect it's for the opposite reason, Mr MacPhail:--we would
+"I suspect it 's for the opposite reason, Mr MacPhail:--we would
 go much too far, making no allowances, causing the innocent to
 suffer along with the guilty, neither giving fair play nor avoiding
 cruelty,--and indeed"
@@ -3286,7 +3286,7 @@ the minister says. Ye see, we dinna ken whan that day may come,
 an' there may na be time for the wat an' the worm to ca (drive)
 the boords apairt."
 
-"Hoots, man! it's no your lang nails nor yet yer heidit screws 'll
+"Hoots, man! it 's no your lang nails nor yet yer heidit screws 'll
 haud doon the redeemt, gien the jeedgement war the morn's mornin',"
 said the sexton; "an' for the lave, they wad be glaid eneuch to
 bide whaur they are; but they'll a' be howkit oot,--fear na ye
@@ -3364,7 +3364,7 @@ bosom of his companion whence floated up the breaking bubbles of
 rainbow hued thought, his words fell upon his heart--not to be
 provender for the birds of flitting fancy and airy speculation,
 but the seed--it might be decades ere it ripened--of a coming
-harvest of hope. At length the master rose and said, "Malcolm, I'm
+harvest of hope. At length the master rose and said, "Malcolm,
 going in: I should like you to stay here half an hour alone, and
 then go straight home to bed."
 
@@ -3621,7 +3621,7 @@ mak 's a bit gleg (quick and keen), ye ken."
 "I dinna gang reg'lar; but I gang as aften as Mr Graham wants me
 to help him, an' I aye gether something."
 
-"So it's schoolmaster you are as well as fisherman? Two strings to
+"So it 's schoolmaster you are as well as fisherman? Two strings to
 your bow!--Who pays you for teaching?"
 
 "Ow! naebody. Wha wad pay me for that?"
@@ -3826,12 +3826,12 @@ piper. Malcolm stood for a moment at the door to understand the
 matter of contention, and prepare him to interfere judiciously.
 
 "Gien ye suppose, piper, 'at ye're peyed to drive fowk oot o' their
-beds at sic hoors as yon, it's time the toon cooncil was informed
+beds at sic hoors as yon, it 's time the toon cooncil was informed
 o' yer mistak," said Meg Partan, with emphasis on the last syllable.
 
 "Ta coot peoples up in ta town are not half so hart upon her as you,
 Mistress Partan," insinuated poor Duncan, who, knowing himself in
-fault, was humble; "and it's tere tat she's paid," he added, with
+fault, was humble; "and it 's tere tat she's paid," he added, with
 a bridling motion, "and not town here pelow."
 
 "Dinna ye glorifee yersel' to suppose there's a fisher, lat alane
@@ -4163,7 +4163,7 @@ are, ye wad be but sma' scoug (shelter)."
 "Why did you move, then?" persisted the girl, who understood what
 he said just about half.
 
-"Weel, my leddy, ye see it's het, an' I'm aye amang the fish mair
+"Weel, my leddy, ye see it 's het, an'  aye amang the fish mair
 or less, an' I didna ken 'at I was to hae the honour o' sittin'
 doon aside ye; sae I thocht ye was maybe smellin' the fish. It's
 healthy eneuch, but some fowk disna like it; an' for a' that I ken,
@@ -4205,8 +4205,8 @@ persecutor.
 han's upo'. I like traivels an' sic like weel eneuch; an' history,
 gien it be na ower dry like. I div not like sermons, an' there's
 mair o' them in Portlossie than onything ither. Mr Graham--that's
-the schoolmaister--has a gran' libbrary, but it's maist Laitin an'
-Greek, an' though I like the Laitin weel, it's no what I wad read
+the schoolmaister--has a gran' libbrary, but it 's maist Laitin an'
+Greek, an' though I like the Laitin weel, it 's no what I wad read
 i' the face o' the sea. When ye're in dreid o' wantin' a dictionar',
 that spiles a'."
 
@@ -4221,12 +4221,12 @@ sud ha' been Ars Dramatica. But leddies dinna care aboot sic things."
 
 "Noo, my leddy, dinna begin to mak' ghem o' me, like my lord. I
 cud ill bide it frae him, an' gien ye tak till 't as weel, 1 maun
-jist haud oot o' yer gait. I'm nae gentleman, an' hae ower muckle
+jist haud oot o' yer gait.  nae gentleman, an' hae ower muckle
 respeck for what becomes a gentleman to be pleased at bein' ca'd
 ane. But as for the Laitin, I'll be prood to instruck yer leddyship
 whan ye please."
 
-"I'm afraid I've no great wish to learn," said Florimel.
+" afraid I've no great wish to learn," said Florimel.
 
 "I daur say no," said Malcolm quietly, and again addressed himself
 to go.
@@ -4261,7 +4261,7 @@ him.
 
 "Do you ever read poetry?"
 
-"Ay, sometimes--whan it's auld."
+"Ay, sometimes--whan it 's auld."
 
 "One would think you were talking about wine! Does age improve
 poetry as well?"
@@ -4289,7 +4289,7 @@ for me."
 "I like Milton weel. Ye get a fine mou'fu' o' him. I dinna like
 the verse 'at ye can murle (crumble) oot atween yer lips an' yer
 teeth. I like the verse 'at ye maun open yer mou' weel to lat gang.
-Syne it's worth yer while, whether ye unnerstan' 't or no."
+Syne it 's worth yer while, whether ye unnerstan' 't or no."
 
 "I don't see how you can say that."
 
@@ -4323,7 +4323,7 @@ licht on't, my leddy--I never saw an organ: what is 't like?"
 "But I never saw ane o' them either. It's ill makin' things
 a'thegither oot o' yer ain heid."
 
-"Well, it's played with the fingers--like this," said Florimel.
+"Well, it 's played with the fingers--like this," said Florimel.
 "And the fugue is a kind of piece where one part pursues the other,
 --"
 
@@ -4335,7 +4335,7 @@ notes to ane anither; an' fugue--that comes frae fugere to flee
 --'fled and pursued transverse the resonant fugue '--the tane
 rinnin' efter the tither, roon' an' roon'. Ay, I hae't noo!--
 Resonant--that's echoing or resounding. But what's instinct my
-leddy? It maun be an adjective, I'm thinkin'."
+leddy? It maun be an adjective,  thinkin'."
 
 Although the modesty of Malcolm had led him to conclude the girl
 immeasurably his superior in learning because she could tell him
@@ -4350,7 +4350,7 @@ of thought. "It's the touch that's instinct. But I fancy there sud
 be a comma efter instinct.--His fingers were sae used till 't
 that they could 'maist do the thing o' themsel's--Isna 't lucky,
 my leddy, that I thocht o' sayin' 't ower to you! I'll read the buik
-frae the beginnin',--it's the neist to the last, I think,--jist
+frae the beginnin',--it 's the neist to the last, I think,--jist
 to come upo' the twa lines i' their ain place, ohn their expeckin'
 me like, an' see hoo gran' they soon' whan a body unnerstan's them.
 Thank ye, my leddy."
@@ -4361,7 +4361,7 @@ Thank ye, my leddy."
 
 "What do you mean by the forenights?"
 
-"I mean efter it's dark an' afore ye gang to yer bed.--He likes
+"I mean efter it 's dark an' afore ye gang to yer bed.--He likes
 the battles o' the angels best. As sune 's it comes to ony fechtin',
 up he gets, an' gangs stridin' aboot the flure; an' whiles he maks
 a claucht at 's claymore; an' faith! ance he maist cawed aff my
@@ -4475,7 +4475,7 @@ it. But he wadna hurt leevin' cratur, the laird."
 "What a dreadful face!" said the girl, shuddering.
 
 "It's no an ill faured face," said Malcolm, "only the storm's
-frichtit him by ord'nar, an' it's unco ghaistly the noo."
+frichtit him by ord'nar, an' it 's unco ghaistly the noo."
 
 "Is there nothing to be done for him?" she said compassionately.
 
@@ -4503,7 +4503,7 @@ o' mither; he jist cries oot whan he hears 't."
 
 "It seems clearing," said Florimel.
 
-"I doobt it's only haudin' up for a wee," returned Malcolm, after
+"I doobt it 's only haudin' up for a wee," returned Malcolm, after
 surveying as much of the sky as was visible through the bars; "but
 I do think ye had better run for the hoose, my leddy. I s' jist
 follow ye, a feow yairds ahin', till I see ye safe. Dinna ye be
@@ -4540,7 +4540,7 @@ superiority.
 
 "Mak ghem o' a blast o' win' by comparin' 't to my gran'father!"
 exclaimed Malcolm. "Hoot, my leddy! its a coamplement to the biggest
-blast 'at ever blew to be compairt till an auld man like him. I'm
+blast 'at ever blew to be compairt till an auld man like him.
 ower used to them to min' them muckle mysel', 'cep' to fecht wi'
 them. But whan I watch the seagoos dartin' like arrowheids throu'
 the win', I sometimes think it maun be gran' for the angels to caw
@@ -4588,13 +4588,13 @@ cratur was--ye wad ca' 't Ayriel?"
 
 "Ye'll hae a' aboot him up i' the libbrary there though," said
 Malcolm. "The Tempest's the only ane o' Shakspere's plays 'at I hae
-read, but it's a gran' ane, as Maister Graham has empooered me to
+read, but it 's a gran' ane, as Maister Graham has empooered me to
 see."
 
 "Oh, dear!" exclaimed Florimel, "I've lost my book!"
 
 "I'll gang back an' luik for 't this meenute, my leddy," said Malcolm.
-"I ken ilka fit o' the road we've come, an' it's no possible but
+"I ken ilka fit o' the road we've come, an' it 's no possible but
 I fa' in wi' 't.--Ye'll sune be hame noo, an' it'll hardly be on
 again afore ye win in," he added, looking up at the clouds.
 
@@ -4602,7 +4602,7 @@ again afore ye win in," he added, looking up at the clouds.
 
 "I'll jest fess 't up to the Hoose, an' say 'at I fan' 't whaur I
 will fin' 't. But I wiss ye wad len' me yer pocket nepkin to row
-'t in, for I'm feared for blaudin' 't afore I get it back to ye."
+'t in, for  feared for blaudin' 't afore I get it back to ye."
 
 Florimel gave him her handkerchief, and Malcolm took his leave,
 saying.--"I'll be up i' the coorse o' a half hoor at farthest."
@@ -4668,7 +4668,7 @@ The next morning, soon after their early breakfast, the gate keeper
 stood in the door of Duncan MacPhail's cottage, with a verbal
 summons for Malcolm to appear before his lordship.
 
-"An' I'm no to lowse sicht o' ye till ye hae put in yer appearance,"
+"An'  no to lowse sicht o' ye till ye hae put in yer appearance,"
 he added; "sae gien ye dinna come peaceable, I maun gar ye."
 
 "Whaur's yer warrant?" asked Malcolm coolly.
@@ -4782,7 +4782,7 @@ me--made at him wi' his braid swoord!"
 'at hasna breath eneuch to fill the bag o' 's pipes!"
 
 "Caw canny, Johnny Bykes. Gien ye say an ill word o' my gran'father,
-I s' gie your neck a thraw--an' that the meenute we 're oot o'
+I s' gie your neck a thraw--an' that the meenute we're oot o'
 's lordship's presence."
 
 "Threits! my lord," said the gatekeeper, appealing.
@@ -4793,11 +4793,11 @@ in regard of stealing my brood pheasants?"
 
 "Maister MacPherson," said Malcolm, with an inclination of his head
 towards the gamekeeper, "micht ha' fun' a fitter neuk to fling that
-dirt intill. 'Deed, my lord, it's sae ridic'lous, it hardly angers
+dirt intill. 'Deed, my lord, it 's sae ridic'lous, it hardly angers
 me. A man 'at can hae a' the fish i' the haill ocean for the takin'
 o' them, to be sic a sneck drawin' contemptible wratch as tak yer
 lordship's bonny hen craturs frae their chuckies--no to mention
-the sin o't!--it's past an honest man's denyin', my lord. An'
+the sin o't!--it 's past an honest man's denyin', my lord. An'
 Maister MacPherson kens better, for luik at him lauchin' in 's ain
 sleeve."
 
@@ -4887,7 +4887,7 @@ Lossie, well pleased with the dignity of the youth's behaviour.
 "To ken what a body's word 's worth ye maun trust him first, my lord.
 It's no muckle trust I want o' ye: it comes but to this--that I
 hae rizzons, guid to me, an' no ill to you gien ye kent them, for
-not answerin' yer lordship's questions. I'm no denyin' a word 'at
+not answerin' yer lordship's questions.  no denyin' a word 'at
 Johnny Bykes says. I never hard the cratur ca'd a leear. He's but
 a cantankerous argle barglous body--no fit to be a gatekeeper
 'cep it was up upo' the Binn side, whaur 'maist naebody gangs oot
@@ -4904,12 +4904,12 @@ like to be efter mischeef."
 lordship. "But you know it won't do to let anybody that pleases
 get over the park walls. Why didn't you go out at the gate?"
 
-"The burn was atween me an' hit, an' it's a lang road roon'."
+"The burn was atween me an' hit, an' it 's a lang road roon'."
 
 "Well, I must lay some penalty upon you, to deter others," said
 the marquis.
 
-"Verra well, my lord. Sae lang 's it's fair, I s' bide it ohn
+"Verra well, my lord. Sae lang 's it 's fair, I s' bide it ohn
 grutten (without weeping)."
 
 "It shan't be too hard. It's just this--to give John Bykes the
@@ -5026,7 +5026,7 @@ And again he offered the coin.
 
 "I don't in the least see why, on your own principles, you shouldn't
 take the money," said the girl, with more than the coldness of an
-uninterested umpire. "You worked for it, I'm sure--first accompanying
+uninterested umpire. "You worked for it,  sure--first accompanying
 me home in such a storm, and then finding the book and bringing it
 back all the way to the house!"
 
@@ -5048,7 +5048,7 @@ Malcolm with the patience of deep disappointment.
 of it, I daresay."
 
 "I ken mony ane, my leddy, wham it wad weel become yer am bonny han'
-to gie 't till; but I'm no gaein' to tak' credit fer a leeberality
+to gie 't till; but  no gaein' to tak' credit fer a leeberality
 that wad ill become me."
 
 "You can tell how you earned it."
@@ -5131,14 +5131,14 @@ an unco differ atween 's!"
 
 "Because a gentleman would have presumed on such a favour."
 
-"I'm glaidder nor ever 'at I wasna born ane," said Malcolm, and,
+" glaidder nor ever 'at I wasna born ane," said Malcolm, and,
 slowly stooping, he lifted the handkerchief; "an' I was aye glaid
 o' that, my leddy, 'cause gien I had been, I wad hae been luikin'
 doon upo' workin' men like mysel' as gien they warna freely o' the
 same flesh an' blude. But I beg yer leddyship's pardon for takin'
 ye up amiss. An' sae lang's I live, I'll regaird this as ane o'
 her fedders 'at the angel moutit as she sat by the bored craig.
-An' whan I'm deid, I'll hae 't laid upo' my face, an' syne, maybe,
+An' whan  deid, I'll hae 't laid upo' my face, an' syne, maybe,
 I may get a sicht o' ye as I pass. Guid day my leddy."
 
 "Good day," she returned kindly. "I wish my father would let me
@@ -5602,7 +5602,7 @@ Malcolm lost his hold on him. He darted away, caught his dirk
 direction of the last word he had heard. Malcolm dropped the sword
 and sprung after him.
 
-"Gif her ta fillain by ta troat," screamed the old man. "She 'll
+"Gif her ta fillain by ta troat," screamed the old man. "she'll
 stap his pag! She'll cut his chanter in two! She'll pe toing it!
 Who put ta creat cranson of Inverriggen should pe cutting ta troat
 of ta tog Clenlyon!"
@@ -5732,7 +5732,7 @@ consequence; and if he should be unable to do his morning's duty,
 it would almost break his heart.
 
 "Eh!" said the Partaness, in a whisper, as they parted at Duncan's
-door, "a baad temper 's a frichtsome thing. I'm sure the times I
+door, "a baad temper 's a frichtsome thing.  sure the times I
 hae telled him it wad be the ruin o' 'im!"
 
 To Malcolm's gentle knock Miss Horn's door was opened by Jean.
@@ -5764,7 +5764,7 @@ the story, rousing thereby a mighty indignation in her bosom, a
 great fire in her hawk nose, and a succession of wild flashes in
 her hawk eyes; but when he showed her his hand,
 
-"Lord, Malcolm!" she cried; "it's a mercy I was made wantin'
+"Lord, Malcolm!" she cried; "it 's a mercy I was made wantin'
 feelin's, or I cudna hae bed the sicht. My puir bairn!"
 
 Then she rushed to the stair and shouted,
@@ -5785,7 +5785,7 @@ glimmering light of one long beaked tallow candle.
 been terrible things dune intill't. The auld markis was an ill man.
 I daurna say what he wadna hae dune, gien half the tales be true
 'at they tell o' 'im; an' the last ane was little better. This
-ane winna be sae ill, but it's clear 'at he's tarred wi' the same
+ane winna be sae ill, but it 's clear 'at he's tarred wi' the same
 stick."
 
 "I dinna think he means onything muckle amiss," agreed Malcolm,
@@ -5804,7 +5804,7 @@ yersel'. They war never said straucht oot, min' ye, but jist mintit
 at, like, wi' a doon draw o' the broos, an' a wee side shak o' the
 heid, as gien the body wad say, 'I cud tell ye gien I daur.' But
 I doobt mysel' gien onything was kent, though muckle was mair nor
-suspeckit. An' whaur there 's reik, there maun be fire."
+suspeckit. An' whaur there's reik, there maun be fire."
 
 As she spoke she was doing her best, with many expressions of pity,
 for his hand. When she had bathed and bound it up, and laid it in
@@ -5838,7 +5838,7 @@ first sign of it that reached him was the feebly uttered question,
 
 "As sure 's ye stabbit him," answered Malcolm.
 
-"Then she 'll pe getting herself ready," said Duncan, making a
+"Then she'll pe getting herself ready," said Duncan, making a
 motion to rise.
 
 "What for, daddy?"
@@ -5852,31 +5852,31 @@ Malcolm, cautious of revealing the facts of the case.
 
 In a little while he woke with a start.
 
-"She 'll be hafing an efil tream, my son Malcolm," he said; "or it
+"she'll be hafing an efil tream, my son Malcolm," he said; "or it
 was 'll pe more than a tream. Cawmill of Clenlyon, Cod curse him!
 came to her pedside; and he'll say to her, 'MacDhonuill,' he said,
 for pein' a tead man he would pe knowing my name,--'MacDhonuill,'
 he said, 'what tid you'll pe meaning py turking my posterity?' And
 she answered and said to him, 'I pray it had peen yourself, you
 tamned Clenlyon.' And he said to me, 'It 'll pe no coot wishing tat;
-it would be toing you no coot to turk me, for I'm a tead man.'--
+it would be toing you no coot to turk me, for  a tead man.'--
 'And a tamned man,' says herself, and would haf taken him py ta
-troat, put she couldn't mofe. 'Well, I'm not so sure of tat,' says
+troat, put she couldn't mofe. 'Well,  not so sure of tat,' says
 he, 'for I 'fe pecked all teir partons.'--'And tid tey gif tem
-to you, you tog?' says herself.--'Well, I'm not sure,' says he;
-'anyhow, I'm not tamned fery much yet.'--'She'll pe much sorry
+to you, you tog?' says herself.--'Well,  not sure,' says he;
+'anyhow,  not tamned fery much yet.'--'She'll pe much sorry
 to hear it,' says herself. And she took care aalways to pe calling
-him some paad name, so tat he shouldn't say she 'll be forgifing
+him some paad name, so tat he shouldn't say she'll be forgifing
 him, whatever ta rest of tem might be toing. 'Put what troubles
 me,' says he, 'it 'll not pe apout myself at aall.'--'Tat 'll
 pe a wonter,' says her nain sel': 'and what may it pe apout, you
 cuttroat?'--'It 'll pe apout yourself,' says he. 'Apout herself?'
---'Yes; apout yourself' says he. 'I'm sorry for you--for ta ting
+--'Yes; apout yourself' says he. ' sorry for you--for ta ting
 tat's to pe tone with him tat killed a man aal pecaase he pore my
 name, and he wasn't a son of mine at aall! Tere is no pot in hell
 teep enough to put him in!'--'Ten tey must make haste and tig
-one,' says herself; 'for she 'll pe hangt in a tay or two.'--So
-she 'll wake up, and beholt it was a tream!"
+one,' says herself; 'for she'll pe hangt in a tay or two.'--So
+she'll wake up, and beholt it was a tream!"
 
 "An' no sic an ill dream efter a', daddy!" said Malcolm.
 
@@ -5891,7 +5891,7 @@ tream, my son."
 naebody."
 
 "Tid she'll not trive her turk into ta tog?" cried Duncan fiercely.
-"Och hone! och hone!--Then she 's ashamed of herself for efer,
+"Och hone! och hone!--Then she's ashamed of herself for efer,
 when she might have tone it. And it 'll hafe to be tone yet!"
 
 He paused a few moments, and then resumed:
@@ -5947,7 +5947,7 @@ poothered wig," said Malcolm. "--It's a stan' o' pipes," he added,
 the load of indignation it bore. "She'll pe taking no presents from
 marquis or tuke tat would pe teceifing old Tuncan, and making him
 trink with ta cursed Clenlyon. Tell ta marquis he 'll pe sending
-her cray hairs with sorrow to ta crafe; for she 'll pe tishonoured
+her cray hairs with sorrow to ta crafe; for she'll pe tishonoured
 for efer and henceforth."
 
 Probably pleased to be the bearer of a message fraught with so much
@@ -6111,7 +6111,7 @@ Hoose."
 "Hm!" said Duncan, the pain of his insult keenly renewed by the
 mere mention of the scene of it. "Put," he went on, continuing
 aloud the reflections of a moment of silence, "she'll pe a laty,
-and it's not to pe laid to her charch. Sit town, my laty. Ta poor
+and it 's not to pe laid to her charch. Sit town, my laty. Ta poor
 place is your own."
 
 But Lady Florimel was already seated, and busy in her mind as
@@ -6190,7 +6190,7 @@ also, and waited.
 man, and might pe calling herself a chentleman. A rache is not a
 choke. To put her in a rache was not coot. See to it. And it was
 a ferry paad choke, too, to make a pig hole in her poor pag! Och
-hone! och hone!--Put I'm clad Clenlyon was not there, for she
+hone! och hone!--Put  clad Clenlyon was not there, for she
 was too plind to kill him."
 
 "But you will surely forgive my father, when he wants to make it
@@ -6375,7 +6375,7 @@ moment his grandson's voice reached him, the tumult ceased; he took
 the port vent from his lips, and with sightless eyes turned full
 on Lord Lossie, said in a low earnest voice,--
 
-"My lort, she 'll pe ta craandest staand o' pipes she efer blew,
+"My lort, she'll pe ta craandest staand o' pipes she efer blew,
 and proud and thankful she'll pe to her lort marquis, and to ta Lort
 of lorts, for ta kift. Ta pipes shall co town from cheneration to
 cheneration to ta ent of time; yes, my lort, until ta loud cry of
@@ -6628,7 +6628,7 @@ leddy had the best o' the loagic."
 have you been in the rock there?"
 
 "No ae meenute, my lord. I flang aff my butes to rin efter a
-freen', an' that's hoo ye didna hear me come up. I'm gaein' efter
+freen', an' that's hoo ye didna hear me come up.  gaein' efter
 them noo, to gang hame i' them. Guid nicht, my lord. Guid nicht,
 my leddy."
 
@@ -6862,7 +6862,7 @@ within hearing distance.
 understand your savage Scotch."
 
 "Hoot, my leddy! the battle o' Armageddon 's no ane o' the Scots
-battles; it's the battle atween the richt and the wrang, 'at ye
+battles; it 's the battle atween the richt and the wrang, 'at ye
 read aboot i' the buik o' the Revelations."
 
 "What on earth are you talking about?" returned Lady Florimel in
@@ -6879,7 +6879,7 @@ hae to tell ye a' that Mr Graham has been learnin' me sin ever I
 can min.' He says 'at the whole economy o' natur is fashiont unco
 like that o' the kingdom o' haven: its jist a gradation o' services,
 an' the highest en' o' ony animal is to contreebute to the life o'
-ane higher than itsel'; sae that it's the gran' preevilege o' the
+ane higher than itsel'; sae that it 's the gran' preevilege o' the
 fish we tak, to be aten by human bein's, an' uphaud what's abune
 them."
 
@@ -6887,7 +6887,7 @@ them."
 
 "Hoo ken ye that, my leddy? Ye can tell nearhan' as little aboot
 the hert o' a herrin'--sic as it has--as the herrin' can tell
-aboot yer ain, whilk, I'm thinkin', maun be o' the lairgest size."
+aboot yer ain, whilk,  thinkin', maun be o' the lairgest size."
 
 "How should you know anything about my heart, pray?" she asked,
 with more amusement than offence.
@@ -6910,7 +6910,7 @@ than she already considered it.
 "It's a' pairt o' ae thing, my leddy," Malcolm resumed. "The herrin
 's like the fowk 'at cairries the mate an' the pooder an' sic like
 for them 'at does the fechtin'. The hert o' the leevin' man's the
-place whaur the battle's foucht, an' it's aye gaein' on an' on there
+place whaur the battle's foucht, an' it 's aye gaein' on an' on there
 atween God an' Sawtan; an' the fish they haud fowk up till 't."
 
 "Do you mean that the herrings help you to fight for God?" said
@@ -6933,7 +6933,7 @@ an' the verra weans hae themsel's to fecht i' the same battle o'
 guid an' ill, I dinna see the muckle differ there wad be atween
 them an' the fish, nor what for they sudna ate ane anither as the
 craturs i' the watter du. But gien 't be the battle I say, there
-can be no pomp o' sea or sky ower gran' for 't; an' it's a weel
+can be no pomp o' sea or sky ower gran' for 't; an' it 's a weel
 waured (expended) gien it but haud the gude anes merry an' strong,
 an' up to their work. For that, weel may the sun shine a celestial
 rosy reid, an' weel may the boatie row, an' weel may the stars luik
@@ -6943,13 +6943,13 @@ to mak a man a richt hertit guid willed sodger!"
 "And, pray, what may be your rank in this wonderful army?" asked
 Lady Florimel, with the air and tone of one humouring a lunatic.
 
-"I'm naething but a raw recruit, my leddy; but gien I hed my chice,
+" naething but a raw recruit, my leddy; but gien I hed my chice,
 I wad be piper to my reg'ment."
 
 "How do you mean?"
 
 "I wad mak sangs. Dinna lauch at me, my leddy, for they're the best
-kin' o' wapon for the wark 'at I ken. But I'm no a makar (poet),
+kin' o' wapon for the wark 'at I ken. But  no a makar (poet),
 an' maun content mysel' wi' duin' my wark."
 
 "Then why," said Lady Florimel, with the conscious right of social
@@ -6973,14 +6973,14 @@ boat; I didn't know you went with the rest of the fishermen: that's
 very dangerous work--isn't it?"
 
 "No ower dangerous my leddy. There's some gangs doon ilka sizzon;
-but it's a' i' the w'y o' yer wark."
+but it 's a' i' the w'y o' yer wark."
 
 "Then how is it you're not gone fishing tonight?"
 
 "She's a new boat, an' there's anither day's wark on her afore we
 win oot.--Wadna ye like a row the nicht, my leddy?"
 
-"No, certainly; it's much too late."
+"No, certainly; it 's much too late."
 
 "It'll be nane mirker nor 'tis; but I reckon ye're richt. I cam
 ower by jist to see whether ye wadna like to gang wi' the boats a
@@ -6991,7 +6991,7 @@ my heid."
 I can't go with you."
 
 "I canna, my leddy--that's the fash o' 't! I maun gang wi' Blue
-Peter the morn's nicht. It was my last chance, I'm sorry to say."
+Peter the morn's nicht. It was my last chance,  sorry to say."
 
 "It's not of the slightest consequence," Lady Florimel returned;
 and, bidding him goodnight, she shut and locked the door.
@@ -7336,7 +7336,7 @@ close of a conversation.
 
 "I'll do my best, ye may be sure, my leddy," she said. "There's
 something no canny aboot the cratur, an' doobtless ye was an ill
-used wuman, an' ye're i' the richt. But it's a some fearsome ventur,
+used wuman, an' ye're i' the richt. But it 's a some fearsome ventur,
 an' may be luikit intill, ye ken. There I s' be yer scoug. Lippen
 to me, an' ye s' no repent it."
 
@@ -7465,7 +7465,7 @@ revive.
 "Eh, sirs!" exclaimed Miss Horn, regarding him now more narrowly
 --"but he's in an awfu' state o' dirt! I maun wash his face an'
 han's, an' pit him till 's bed. Could ye help aff wi' 's claes,
-Ma'colm? Though I haena ony feelin's, I 'm jist some eerie-like at
+Ma'colm? Though I haena ony feelin's,  jist some eerie-like at
 the puir body's back."
 
 The last words were uttered in what she judged a safe aside.
@@ -7548,7 +7548,7 @@ as an auld wife like me seldom tells till a young man like yersel'."
 "Yer ain bridle sail rule my tongue, mem," said Malcolm.
 
 "I s' lippen to yer discretion," said Miss Horn, and straightway
-began.--"Some years ago--an' I s' warran' it's weel ower twinty
+began.--"Some years ago--an' I s' warran' it 's weel ower twinty
 --that same wuman, Bawby Cat'nach,--wha was nae hame born wuman,
 nor had been lang aboot the toon--comin' as she did frae naebody
 kent whaur, 'cep maybe it was the markis 'at than was, preshumed to
@@ -7586,7 +7586,7 @@ veesits fowk 'at 's no weel--an' Bawby was, an' is, ane sic like!
 Sae I was angert at seein' her colloguin' wi' Jean, an' I cried
 Jean to me to the door o' the kitchie. But wi' that up jumps Bawby,
 an' comin' efter her, says to me--says she, 'Eh, Miss Horn!
-there's terrible news: Leddy Lossie's deid;--she 's been three
+there's terrible news: Leddy Lossie's deid;--she's been three
 ooks deid!'--'Weel,' says I, 'what's sae terrible aboot that?'
 For ye ken I never had ony feelin's, an' I cud see naething sae
 awfu' aboot a body deem' i' the ord'nar' w'y o natur like. 'We'll
@@ -7601,11 +7601,11 @@ an' turned an' gaed up the stair, an' loot her follow me. Whan she
 cam' in, she pat tu the door ahint her, an' turnt to me, an' said
 --says she: 'An wha 's deid forbye, think ye?'--'I hae hard o'
 naebody,' I answered. 'Wha but the laird o' Gersefell!' says she.
-'I'm sorry to hear that, honest ma!' says I; for a'body likit Mr
+' sorry to hear that, honest ma!' says I; for a'body likit Mr
 Stewart. 'An' what think ye o' 't?' says she, wi' a runklin o' her
 broos, an' a shak o' her heid, an' a settin o' her roon' nieves upo'
 the fat hips o' her. 'Think o' 't?' says I ; 'what sud I think o'
-'t, but that it's the wull o' Providence?' Wi' that she leuch till
+'t, but that it 's the wull o' Providence?' Wi' that she leuch till
 she wabblet a' ower like cauld skink, an' says she--'Weel, that's
 jist what it is no, an' that lat me tell ye, Miss Horn!' I glowert
 at her, maist frichtit into believin' she was the witch fowk ca'd
@@ -7654,13 +7654,13 @@ hoose a'thegither. An' puttin' this an' that thegither, for I hear
 a hantle said 'at I say na ower again, it seems to me 'at her first
 scunner at her puir misformt bairn, wha they say was humpit whan
 he was born an' maist cost her her life to get lowst o' him--
-her scunner at 'im 's been growin' an' growin' till it's grown to
+her scunner at 'im 's been growin' an' growin' till it 's grown to
 doonricht hate."
 
-"It's an awfu' thing 'at ye say, mem, an' I doobt it's ower true.
+"It's an awfu' thing 'at ye say, mem, an' I doobt it 's ower true.
 But hoo can a mither hate her ain bairn?" said Malcolm.
 
-"'Deed it's nae wonner ye sud speir, laddie! for it's weel kent 'at
+"'Deed it 's nae wonner ye sud speir, laddie! for it 's weel kent 'at
 maist mithers, gien there be a shargar or a nat'ral or a crookit ane
 amo' their bairns, mak mair o' that ane nor o' a' the lave putten
 thegither--as gien they wad mak it up till 'im, for the fair
@@ -7677,12 +7677,12 @@ deed. Mony ane cud du the sin ower again, 'at canna bide the sicht
 or even the word o' 't. I hae seen a body 't wad steal a thing as
 sune's luik at it gang daft wi' rage at bein' ca'd a thief. An'
 maybe she wadna care gien 't warna for the oogliness o' 'im. Sae
-be he was a bonny sin, I'm thinkin' she wad hide him weel eneuch.
+be he was a bonny sin,  thinkin' she wad hide him weel eneuch.
 But seein' he 's naither i' the image o' her 'at bore 'im nor him
 'at got 'im, but beirs on 's back, for ever in her sicht, the sin
 'at was the gettin' o' 'in, he's a' hump to her, an' her hert's
 aye howkin a grave for 'im to lay 'im oot o' sicht intill she bore
-'im, an' she wad beery 'im. An' I'm thinkin' she beirs the markis
+'im, an' she wad beery 'im. An'  thinkin' she beirs the markis
 --gien sae it be sae--deid an' gane as he is--a grutch yet,
 for passin' sic an offspring upo' her, an' syne no merryin' her
 efter an' a', an' the ro'd clear o' baith 'at stude atween them.
@@ -7745,8 +7745,8 @@ can say; but ye may be sure o' that--I hae hard tell," she went
 on reflectingly--"o' some room or ither i' the hoose 'at there's
 a fearsome story aboot, an' 'at 's never opent on no accoont. I hae
 hard a' aboot it, but I canna min' upo' 't noo, for I paid little
-attention till 't at the time, an' it's mony a year sin' syne. But
-it wad be some deevilich ploy o' their ain they wad be efter: it's
+attention till 't at the time, an' it 's mony a year sin' syne. But
+it wad be some deevilich ploy o' their ain they wad be efter: it 's
 little the likes o' them wad heed sic auld warld tales."
 
 "Wad ye hae me tell the markis?" asked Malcolm.
@@ -7786,7 +7786,7 @@ fishin', ye ken."
 
 "Gien 't had been my ain line fishin', I could aye ha' taen him i'
 the boat wi' me; but I dinna ken for the herrin'. Blue Peter wadna
-objeck, but it's some much work, an' for a waikly body like the
+objeck, but it 's some much work, an' for a waikly body like the
 laird to be oot a' nicht some nichts, sic weather as we hae to
 encoonter whiles, micht be the deid o' 'm."
 
@@ -7874,14 +7874,14 @@ expression of determined mystery.
 
 "Ow, jist for fear ye sud ken."
 
-"But I'm a freen' till him."
+"But  a freen' till him."
 
 "Ye may think ay, an' the laird may think no."
 
 "Does he think you a freen', Phemy?" asked Malcolm, in the hope of
 coming at something by widening the sweep of the conversation.
 
-"Ay, he kens I'm a freen'," she replied.
+"Ay, he kens  a freen'," she replied.
 
 "An' do ye aye ken whaur he is?"
 
@@ -7900,7 +7900,7 @@ fowk aboot 'at's efter deein' him an ill turn."
 "But I want to tak care 'o 'im. Tell me whaur he is, like a guid
 lassie, Phemy."
 
-"I'm no sure. I may say I dinna ken."
+" no sure. I may say I dinna ken."
 
 "Ye say ye ken whan ither fowk disna: noo naebody kens."
 
@@ -7946,7 +7946,7 @@ for a while."
 "An' tell him gien onything befa' him, to sen' to Miss Horn, for
 Ma'colm MacPhail may be oot wi' the boats.--Ye winna forget that?"
 
-"I'm no lickly to forget it," answered Phemy, apparently absorbed
+" no lickly to forget it," answered Phemy, apparently absorbed
 in boring a hole in a haddock's eye with a pin so bent as to act
 like a brace and bit.
 
@@ -7971,7 +7971,7 @@ some news o' the laird."
 
 "There's a guid lassie!"
 
-"Na, na; I'm makin' nae promises," said Phemy.
+"Na, na;  makin' nae promises," said Phemy.
 
 Malcolm left her and went to find her father, who, although it
 was Sunday, was already "oot aboot," as she had said. He found him
@@ -8100,7 +8100,7 @@ no mowse."
 
 "What! you're not afraid of an old woman?"
 
-"Deil a bit, my lord!--that is, I'm no feart at a dogfish or a
+"Deil a bit, my lord!--that is,  no feart at a dogfish or a
 rottan, but I wud tak tent an' grip them the richt gait, for they
 hae teeth. Some fowk think Mistress Catanach has mair teeth nor
 she shaws."
@@ -8137,7 +8137,7 @@ Malcolm confined himself to the principal facts.
 "I don't think you had any business to interfere, MacPhail," said
 his lordship, seriously. "His mother must know best."
 
-"I'm no sae sure o' that, my lord! To say naething o' the ill
+" no sae sure o' that, my lord! To say naething o' the ill
 guideship, which micht hae 'garred a minister sweer, it wud be
 a cruelty naething short o' deev'lich to lock up a puir hairmless
 cratur like that, as innocent as he 's ill shapit."
@@ -8170,7 +8170,7 @@ Malcolm's earnestness for irreverence, and it amused him.
 "You've not got to set things right, anyhow," he said. "You mind
 your own business."
 
-"I'll try, my lord: it's the business o' ilka man, whaur he can,
+"I'll try, my lord: it 's the business o' ilka man, whaur he can,
 to lowse the weichty birns, an' lat the forfouchten gang free. Guid
 day to ye, my lord."
 
@@ -8223,7 +8223,7 @@ time. The story was like a tree: it got bigger every year."
 tell me the prophecy at least."
 
 "That is the only part I can give just as she gave it. It's in
-rhyme. I hardly understand it, but I'm sure of the words."
+rhyme. I hardly understand it, but  sure of the words."
 
 "Let us have them then, if you please."
 
@@ -8504,7 +8504,7 @@ procession halted by one consent, and the bride, taking a bottle
 and glass which her brother carried, proceeded to pour out a bumper
 of whisky, while the groomsman addressed Lord Meikleham.
 
-"Ye 're the bride's first fut, sir," he said.
+"ye're the bride's first fut, sir," he said.
 
 "What do you mean by that?" asked Lord Meikleham.
 
@@ -8514,7 +8514,7 @@ Lord Meikleham lifted his hat.
 
 "Allow me to congratulate you," he said.
 
-"Ye 're my first fut," returned the bride eagerly yet modestly, as
+"ye're my first fut," returned the bride eagerly yet modestly, as
 she held out to him the glass of whisky.
 
 "This is to console me for not being in the bridegroom's place,
@@ -8900,7 +8900,7 @@ massacre, and know all about that."
 and fought ta redcoats at Culloden. Tat's his claymore on ta wall
 there--a coot plade--though she's not an Andrew Ferrara. She
 wass forched in Clenco, py a cousin of her own, Angus py name, and
-she's a fery coot plade: she 'll can well whistle ta pibroch of
+she's a fery coot plade: she'll can well whistle ta pibroch of
 Ian Loin apout ta ears of ta Sassenach. Her crandfather wass with
 his uncle in ta pattle of Killiecrankie after Tundee--a creat
 man, my laty, and he died there; and so tid her cranduncle, for a
@@ -8926,7 +8926,7 @@ ta moon was not pe up, they'll make up an acreement to co away
 together for a time, and to call temselfs MacPhails. But py and py
 tey took their own nems again."
 
-"And why haven't you your own name now? I'm sure it's a much prettier
+"And why haven't you your own name now?  sure it 's a much prettier
 name."
 
 "Pecause she'll pe taking the other, my tear laty."
@@ -9009,7 +9009,7 @@ broke out:
 "Ach, my tear laty! and tid you'll think old Tuncan such a stoopit
 old man as not to 'll pe trusting ta light of her plind eyes? Put
 her laty must forgif her, for it is a long tale, not like anything
-you 'll pe in ta way of peliefing; and aalso, it'll pe put ta
+you'll pe in ta way of peliefing; and aalso, it'll pe put ta
 tassel to another long tale which tears ta pag of her heart, and
 makes her feel a purning tevil in ta pocket of her posom. Put she'll
 tell you ta won half of it that pelongs to her poy Malcolm. He 's
@@ -9331,7 +9331,7 @@ But poor Duncan could not catch the idea; his mind was filled with
 a preventing fancy.
 
 "Yes; I know; at ta tay of chutchment," he said. "Put what 'll pe
-ta use of ketting her eyes open pefore she 'll pe up? How should
+ta use of ketting her eyes open pefore she'll pe up? How should
 she pe seeing with all ta earth apove her--and ta cravestone
 too tat I know my poy Malcolm will pe laying on ta top of his old
 cranfather to keep him waarm, and let peoples pe know tat ta plind
@@ -9649,8 +9649,8 @@ singing The Lord's my Shepherd.
 
 Malcolm waited until the psalm was finished, and then called out:
 
-"Mr Stewart! I'm here--Malcolm MacPhail. I want to see ye. Tell
-him it's me, Phemy."
+"Mr Stewart!  here--Malcolm MacPhail. I want to see ye. Tell
+him it 's me, Phemy."
 
 A brief pause followed; then Phemy's voice answered:
 
@@ -9674,7 +9674,7 @@ At the bottom of the slope, by the side of the well, sat the laird.
 Phemy set the little lantern she carried on its edge. The laird
 rose and shook hands with Malcolm and asked him to be seated.
 
-"I'm sorry to say they're efter ye again, laird," said Malcolm
+" sorry to say they're efter ye again, laird," said Malcolm
 after a little ordinary chat.
 
 Mr Stewart was on his feet instantly.
@@ -9682,7 +9682,7 @@ Mr Stewart was on his feet instantly.
 "I maun awa'. Tak care o' Phemy," he said hurriedly.
 
 "Na, na, sir," said Malcolm, laying his hand on his arm; "there's
-nae sic hurry. As lang's I'm here ye may sit still; an', as far's
+nae sic hurry. As lang's  here ye may sit still; an', as far's
 I ken, naebody's fun' the w'y in but mysel', an' that was yer am
 wyte (blame), laird. But ye hae garred mair fowk nor me luik, an'
 that's the pity o' 't."
@@ -9731,7 +9731,7 @@ the nearest ferm toon, an' that I reckon, 'll be the Hoose ferm."
 
 "I canna help that," persisted Phemy. "Gien 't wasna the flails,
 whiles ane, an' whiles twa, I dinna ken what it cud hae been. Hoo
-far it was I canna say, for it's ill measurin' i' the dark, or wi'
+far it was I canna say, for it 's ill measurin' i' the dark, or wi'
 naething but a bowat (lantern) i' yer han'; but gien ye ca'd it
 mair, I wadna won'er."
 
@@ -9819,7 +9819,7 @@ broken the shins the auld markis laudit!"
 "Hold your wicked tongue!" hissed a voice in return, almost in
 Phemy's very ear.
 
-"Ow! ye 're there, are ye, mem!" rejoined the other, in a voice that
+"Ow! ye're there, are ye, mem!" rejoined the other, in a voice that
 held internal communication with her wounded shins.
 
 "Coupit ye the crans like me?"
@@ -9831,7 +9831,7 @@ me?" but was capable of a metaphorical interpretation as well.
 may be at their prayers within hearing?"
 
 "Na, na, mem, there's nae risk o' that; this is no ane o' yer
-creepy caves whaur otters an wullcats hae their habitations; it's
+creepy caves whaur otters an wullcats hae their habitations; it 's
 a muckle open mou'd place, like them 'at prays intill 't--as toom
 an' clear sidit as a tongueless bell. But what for ye wad hae 's
 come here to oor cracks (conversation), I canna faddom. A body wad
@@ -9848,9 +9848,9 @@ place for ane 'at has to hide 's heid for verra shame o' slippin'
 aff the likes o' himsel' upo' sic a braw mither! Could he get nae
 ither door to win in at, haith!"
 
-"Woman, you 'll drive me mad!" said the other.
+"Woman, you'll drive me mad!" said the other.
 
-"Weel, hinney," returned the former, suddenly changing her tone, "I'm
+"Weel, hinney," returned the former, suddenly changing her tone, "
 mair an' mair convenced 'at yon's the verra laad for yer purpose.
 For ae thing, ye see, naebody kens whaur he cam frae, as the
 laird, bonny laad, wad say, an' naebody can contradick a word--
@@ -9930,13 +9930,13 @@ s' lea' nae track ahin' me. An' for that same sake, I maun hae my
 pairt i' my han' the meenute the thing's been sworn till. Gien ye
 fail me, ye'll sune see me get mair licht upo' the subjec', an'
 confess till a great mistak. By the Michty, but I'll sweir the verra
-contrar the neist time I'm hed up! Ay, an' ilka body 'ill believe
+contrar the neist time  hed up! Ay, an' ilka body 'ill believe
 me. An' whaur'll ye be than, my leddy? For though I micht mistak,
 ye cudna! Faith! they'll hae ye ta'en up for perjury."
 
 "You're a dangerous accomplice," said the lady.
 
-"I'm a tule ye maun tak by the han'le, or ye'll rue the edge,"
+" a tule ye maun tak by the han'le, or ye'll rue the edge,"
 returned the other quietly.
 
 "As soon then as I get a hold of that misbegotten elf--"
@@ -9945,7 +9945,7 @@ returned the other quietly.
 
 "You forget, Mrs Catanach, that you are speaking to a lady!"
 
-"Ye maun hae been unco like ane ae nicht, ony gait, mem. But I'm
+"Ye maun hae been unco like ane ae nicht, ony gait, mem. But
 dune wi' my jokin'."
 
 "As soon, I say, as I get my poor boy into proper hands, I shall
@@ -10058,7 +10058,7 @@ put in order for you, and you shall live rent free as my piper."
 proud of ta honour, put it 'll pe too far away from ta shore for
 her poy's fishing."
 
-"I have a design upon him too," returned the marquis. "They 're
+"I have a design upon him too," returned the marquis. "they're
 building a little yacht for me--a pleasure boat, you understand
 --at Aberdeen, and I want Malcolm to be skipper. But he is such a
 useful fellow, and so thoroughly to be depended upon, that I should
@@ -10089,26 +10089,26 @@ of fact as his reply must sound after them.
 "I would make any arrangements you or he might wish," he said.
 "He should take his meals with Mrs Courthope, have a bedroom to
 himself and be required only to look after the yacht, and now and
-then do some bit of business I could n't trust any one else with."
+then do some bit of business I couldn't trust any one else with."
 
 The highlander's pride was nearly satisfied.
 
 "So," he said, "it 'll pe his own henchman my lort will pe making
 of her poy?"
 
-"Something like that. We 'll see how it goes. If he does n't like
-it, he can drop it. It 's more that I want to have him about me
+"Something like that. we'll see how it goes. If he does n't like
+it, he can drop it. It's more that I want to have him about me
 than anything else. I want to do something for him when I have a
 chance. I like him."
 
 "My lort will pe toing ta laad a creat honour," said Duncan. "Put,"
-he added, with a sigh, "she 'll pe lonely, her nainsel!"
+he added, with a sigh, "she'll pe lonely, her nainsel!"
 
 "He can come and see you twenty times a day--and stop all night
-when you particularly want him. We 'll see about some respectable
+when you particularly want him. we'll see about some respectable
 woman to look after the house for you."
 
-"She 'll haf no womans to look after her," said Duncan fiercely.
+"she'll haf no womans to look after her," said Duncan fiercely.
 
 "Oh, very well!--of course not, if you don't wish it," returned
 the marquis, laughing.
@@ -10197,7 +10197,7 @@ be my skipper?"
 "That depen's upo' saiveral things--her am size, the wull o' the
 win', an' whether or no yer lordship or my leddy can tak the tiller."
 
-"We can't settle about that then till she comes. I hear she 'll soon
+"We can't settle about that then till she comes. I hear she'll soon
 be on her way now. But I cannot have you dressed like a farmer!"
 said his lordship, looking sharply at the Sunday clothes which
 Malcolm had donned for the visit.
@@ -10221,7 +10221,7 @@ doobt; but faith! seafarin', my lord, ye wad want the trews as
 weel."
 
 "Well, go to the best tailor in the town, and order a naval suit
---white ducks and a blue jacket--two suits you 'll want."
+--white ducks and a blue jacket--two suits you'll want."
 
 "We s' gar ae shuit sair s' (satisfy us) to begin wi', my lord.
 I 'll jist gang to Jamie Sangster, wha maks a' my claes--no 'at
@@ -10231,7 +10231,7 @@ for me. You 're aye sure o' the worth o' yer siller frae him."
 "I tell you to go to the best tailor in the town, and order two
 suits."
 
-"Na, na, my lord; there 's nae need. I canna affoord it forbye. We
+"Na, na, my lord; there's nae need. I canna affoord it forbye. We
 're no a' made o' siller like yer lordship."
 
 "You booby! do you suppose I would tell you to order clothes I did
@@ -10255,7 +10255,7 @@ Malcolm started and stared. Lady Florimel kept an absolute composure.
 The marquis burst into a loud laugh. Malcolm stood bewildered for
 a moment.
 
-"I'm thinkin' I 'm gaein' daft (delirious)!" he said at length,
+" thinkin'  gaein' daft (delirious)!" he said at length,
 putting his hand to his head. "It's time I gaed. Guid mornin', my
 lord."
 
@@ -10377,7 +10377,7 @@ about it."
 law agane openin' hit--is there?" said Malcolm, approaching the
 door next to the one in dispute.
 
-"Certainly not; but I'm pretty sure, once you've heard the story I
+"Certainly not; but  pretty sure, once you've heard the story I
 have to tell, you won't choose to sleep in this part of the house."
 
 "Lat's luik, ony gait."
@@ -10391,7 +10391,7 @@ was comfortably furnished, and the curtains of its tent bed were
 chequered in squares of blue and white.
 
 "This is the verra place for me, mem," said Malcolm, reissuing;--
-"that is," he added, "gien ye dinna think it's ower gran' for the
+"that is," he added, "gien ye dinna think it 's ower gran' for the
 likes o' me 'at 's no been used to onything half sae guid."
 
 "You're quite welcome to it," said Mrs Courthope, all but confident he
@@ -10431,13 +10431,13 @@ do what we are warned against from any quarter, without good reason,
 must be foolhardy at best."
 
 "Weel, mem, I maun hae the room neist the auld warlock's, ony gait,
-for in that I'm gauin' to sleep, an' in nae ither in a' this muckle
+for in that  gauin' to sleep, an' in nae ither in a' this muckle
 hoose."
 
 Mrs Courthope rose, full of uneasiness, and walked up and down the
 room.
 
-"I'm takin' upo' me naething ayont his lordship's ain word," urged
+" takin' upo' me naething ayont his lordship's ain word," urged
 Malcolm.
 
 "If you're to go by the very word," rejoined Mrs Courthope, stopping
@@ -10454,16 +10454,16 @@ maids won't even go up that stair. And as to going into any of
 those rooms!"
 
 "'Deed no, mem! ye sanna du that," cried Malcolm. "Sayna a word to
-ane o' them. I s' wadger I'm as guid's the auld warlock himsel' at
+ane o' them. I s' wadger  as guid's the auld warlock himsel' at
 makin' a bed. Jist gie me the sheets an' the blankets, an' I'll du
 't as trim 's ony lass i' the hoose."
 
 "But the bed will want airing," objected the housekeeper.
 
-"By a' accoonts, that's the last thing it's likly to want--lyin'
+"By a' accoonts, that's the last thing it 's likly to want--lyin'
 neist door to yon chaumer. But I hae sleepit mony 's the time er'
 noo upo' the tap o' a boat load o' herrin', an' gien that never did
-me ony ill, it's no likly a guid bed 'll kill me gien it sud be a
+me ony ill, it 's no likly a guid bed 'll kill me gien it sud be a
 wee mochy (rather full of moths)."
 
 Mrs Courthope yielded and gave him all that was needful, and before
@@ -10644,7 +10644,7 @@ a laugh at the poor attempt.
 
 "No ill, my lord."
 
-"So much the better! I see you 'll be worth your wages."
+"So much the better! I see you'll be worth your wages."
 
 "That depen's on the wages," returned Malcolm.
 
@@ -10664,7 +10664,7 @@ Florimel desired him to wait a moment in the hall.
 
 "He 's so amusing, papa!" she said. "I want to see him stare at
 the books. He thinks the schoolmaster's hundred volumes a grand
-library! He 's such a goose! It 's the greatest fun in the world
+library! He 's such a goose! It's the greatest fun in the world
 watching him."
 
 "No such goose!" said the marquis; but he recognized himself in
@@ -10672,7 +10672,7 @@ his child, and laughed.
 
 Florimel ran off merrily, as bent on a joke, and joined Malcolm.
 
-"Now, I 'm going to show you the library," she said.
+"Now,  going to show you the library," she said.
 
 "Thank ye, my leddy; that will be gran'!" replied Malcolm.
 
@@ -10688,7 +10688,7 @@ astonishment took a strange form of expression, the thought in
 which was beyond the reach of his mistress.
 
 "Eh, my leddy!" he cried, after staring for a while in breathless
-bewilderment, "it's jist like a byke o' frozen bees! Eh! gien they
+bewilderment, "it 's jist like a byke o' frozen bees! Eh! gien they
 war a' to come to life an' stick their stangs o' trowth intill
 a body, the waukin' up wad be awfu'!--It jist gars my heid gang
 roon'!" he added, after a pause.
@@ -10722,17 +10722,17 @@ to buy for you."
 getting somebody who knew more of cookery than yourself, to order
 your dinner for you."
 
-"Ye 're richt, my leddy; but still I wad as sune think o' the
+"ye're richt, my leddy; but still I wad as sune think o' the
 tane 's the tither. What wad come o' the like o' me, div ye think,
 broucht up upo' meal brose, an' herrin', gien ye was to set me
 doon to sic a denner as my lord, yer father, wad ait ilka day, an'
 think naething o'? But gien some fowk hed the buyin' o' my buiks,
-I'm thinkin' the first thing I wad hae to du, wad be to fling the
+ thinkin' the first thing I wad hae to du, wad be to fling the
 half o' them into the burn."
 
 "What good would that do?"
 
-"Clear awa' the rubbitch. Ye see, my leddy, it's no buiks, but what
+"Clear awa' the rubbitch. Ye see, my leddy, it 's no buiks, but what
 buiks. Eh! there maun be mony ane o' the richt sort here, though.
 I wonner gien Mr Graham ever saw them. He wad surely hae made
 mention o them i' my hearin'!"
@@ -10753,7 +10753,7 @@ Ebberdeen, an' cairry me throu' the classes there. Of coorse, I
 wadna try for prizes; that wadna be fair to them 'at cudna affoord
 a tutor at their lodgin's."
 
-"But it's the first thing you would do that I want to know,"
+"But it 's the first thing you would do that I want to know,"
 persisted the girl.
 
 "I tell't ye I wad sit doon an' think aboot it."
@@ -10781,7 +10781,7 @@ be makin' o' me?"
 "Oh!--let me see;--yes--yes--the heir to an earldom.--
 That's liberal enough--is it not?"
 
-"That 's as muckle as say I wad come to be a yerl some day, sae be
+"that's as muckle as say I wad come to be a yerl some day, sae be
 I didna dee upo' the ro'd?"
 
 "Yes--that's what it means."
@@ -10796,7 +10796,7 @@ I didna dee upo' the ro'd?"
 so great as to prevent their meeting on a level of courtesy."
 
 "I dinna freely ken what that means; but gien 't be yer leddyship's
-wull to mak a yerl o' me, I'm no to raise ony objections."
+wull to mak a yerl o' me,  no to raise ony objections."
 
 He uttered it definitively, and stood silent.
 
@@ -10828,7 +10828,7 @@ my leddy."
 
 "No buts, but an answer!"
 
-"Weel--it's yer am wyte, my leddy!--I wad jist gang doon upo'
+"Weel--it 's yer am wyte, my leddy!--I wad jist gang doon upo'
 my k-nees, whaur I stude afore ye, and tell ye a heap o' things
 'at maybe by that time ye wad ken weel eneuch a'ready ."
 
@@ -10851,7 +10851,7 @@ a flash.
 "How dare you?" she said, her breed well obeying the call of the
 game.
 
-"I'm verra sorry, my leddy," faltered Malcolm, trying to steady
+" verra sorry, my leddy," faltered Malcolm, trying to steady
 himself against a strange trembling that had laid hold upon him,
 "--but ye maun alloo it was a' yer ain wyte."
 
@@ -10914,7 +10914,7 @@ reached it his master was not yet there. He took down the volume of
 Milton in which he had been reading before, and was soon absorbed
 in it again.
 
-"Faith! it's a big shame," he cried at length almost unconsciously,
+"Faith! it 's a big shame," he cried at length almost unconsciously,
 and closed the book with a slam.
 
 "What is a big shame?" said the voice of the marquis close behind
@@ -10935,9 +10935,9 @@ een afore."
 "I canna mak oot what sud set a great man like Milton sae sair
 agane a puir cratur like Cherles."
 
-"Read the history, and you 'll see."
+"Read the history, and you'll see."
 
-"Ow! I ken something aboot the politics o' the time, an' I 'm no
+"Ow! I ken something aboot the politics o' the time, an'  no
 sayin' they war that wrang to tak the heid frae him, but what for
 sud Milton hate the man efter the king was deid?"
 
@@ -10963,9 +10963,9 @@ over the other, and was now stroking its knee.
 ye o' the jeedgment passed?"
 
 "Really I have no opinion to give about it," answered the marquis.
-"I 'm no theologian. I see no harm in the prayer."
+" no theologian. I see no harm in the prayer."
 
-"Hairm in 't, my lord! It's perfetly gran'! It 's sic a prayer as
+"Hairm in 't, my lord! It's perfetly gran'! It's sic a prayer as
 cudna weel be aiqualt. It vexes me to the verra hert o' my sowl that
 a michty man like Milton--ane whase bein' was a crood o' hermonies
 --sud ca' that the prayer o' a haithen wuman till a haithen God.
@@ -10996,7 +10996,7 @@ Malcolm instantly replaced the book on its shelf, and approached
 his master, saying--
 
 "Wull yer lordship lat me read whiles, i' this gran' place? I mean
-whan I'm no wantit ither gaits, an' there 's naebody here."
+whan  no wantit ither gaits, an' there's naebody here."
 
 "To be sure," answered the marquis; "--only the scholar must n't
 come with the skipper's hands."
@@ -11005,7 +11005,7 @@ come with the skipper's hands."
 a book wi' wark-like han's as I wad o' branderin' a mackeral ohn
 cleaned it oot."
 
-"And when we have visitors, you 'll be careful not to get in their
+"And when we have visitors, you'll be careful not to get in their
 way."
 
 "I wull that, my lord."
@@ -11161,7 +11161,7 @@ then sat in silence until it was answered.
 "Bring the wine and cake," she said, then turned to Malcolm. "Your
 master speaks very kindly of you. He seems to trust you thoroughly."
 
-"I'm verra glaid to hear 't, mem; but he has never had muckle cause
+" verra glaid to hear 't, mem; but he has never had muckle cause
 to trust or distrust me yet."
 
 "He seems even to think that I might place equal confidence in
@@ -11179,7 +11179,7 @@ winning smile. "But oblige me by taking a glass of wine."
 
 She rose and approached the decanters.
 
-"'Deed no, mem I'm no used till 't, an' it micht jummle my
+"'Deed no, mem  no used till 't, an' it micht jummle my
 jeedgement," said Malcolm, who had placed himself on the defensive
 from the first, jealous of his own conduct as being the friend of
 the laird.
@@ -11238,7 +11238,7 @@ know where! eating wretched food! and--"
 parenthetically; "--whiles herrin' an' yallow haddies."
 
 "It's enough to break a mother's heart! If I could but persuade him
-to come home for a week so as to have a chance with him! But it's
+to come home for a week so as to have a chance with him! But it 's
 no use trying: ill disposed people have made mischief between
 us, telling wicked lies, and terrifying the poor fellow almost to
 death. It is quite impossible except I get some one to help me--
@@ -11318,14 +11318,14 @@ twa han's chappit frae the shackle bane."
 persuasive tones, and with her sweetest smile, "you cannot call it
 harming a poor idiot to restore him to the care of his own mother!"
 
-"That's as it turnt oot," rejoined Malcolm. "But I'm sure o' ae
+"That's as it turnt oot," rejoined Malcolm. "But  sure o' ae
 thing, mem, an' that is, 'at he's no sae muckle o' an eediot as
 some fowk wad hae him."
 
 Mrs Stewart's face fell, she turned from him, and going back to
 her seat hid her face in her handkerchief.
 
-"I'm afraid," she said sadly, after a moment, "I must give up my
+" afraid," she said sadly, after a moment, "I must give up my
 last hope: you are not disposed to be friendly to me, Mr MacPhail;
 you too have been believing hard things of me."
 
@@ -11353,7 +11353,7 @@ Again she hid her face on the settee.
 The explanation was plausible enough, and the grief of the mother
 surely apparent! Malcolm could not but be touched.
 
-"It's no 'at I'm no willin' to be your freen', mem; but I'm yer
+"It's no 'at  no willin' to be your freen', mem; but  yer
 son's freen' a'ready, an' gien he war to hear onything 'at gart
 him mislippen till me, it wad gang to my hert."
 
@@ -11361,8 +11361,8 @@ him mislippen till me, it wad gang to my hert."
 
 "Gien it wad hale your hert to hurt mine, I wad think aboot it,
 mem; but gien it hurtit a' three o' 's, and did guid to nane, it
-wad be a misfit a'thegither. I'll du naething till I'm doonricht
-sure it's the pairt o' a freen'."
+wad be a misfit a'thegither. I'll du naething till  doonricht
+sure it 's the pairt o' a freen'."
 
 "That's just what makes you the only fit person to help me that I
 know. If I were to employ people in the affair, they might be rough
@@ -11378,7 +11378,7 @@ Malcolm responded with an unuttered vow.
 "It might become necessary to use force--whereas you could lead
 him with a word."
 
-"Na; I'm naither sic witch nor sic traitor."
+"Na;  naither sic witch nor sic traitor."
 
 "Where would be the treachery when you knew it would be for his
 good?"
@@ -11400,13 +11400,13 @@ man an' beast! A verra bairn cud guide him--ony gait but ane."
 handkerchief to her eyes, and sobbed as she spoke. "There is a
 child he is very fond of, I am told," she added, recovering herself.
 
-"He likes a' bairns," returned Malcolm, "an' they 're maistly
+"He likes a' bairns," returned Malcolm, "an' they're maistly
 a' freen'ly wi' him. But there's but jist ae thing 'at maks life
 endurable till 'im. He suffers a hantle (a great deal) wi' that
 puir back o' his, an' wi' his breath tu whan he's frichtit, for
 his hert gangs loupin like a sawmon in a bag net. An' he suffers
 a hantle, forbye, in his puir feeble min tryin' to unnerstan' the
-guid things 'at fowk tells him, an' jaloosin' it's his ain wyte 'at
+guid things 'at fowk tells him, an' jaloosin' it 's his ain wyte 'at
 he disna unnerstan' them better an' whiles he thinks himsel' the
 child o' sin and wrath, an' that Sawtan has some special propriety
 in him, as the carritchis says--"
@@ -11424,7 +11424,7 @@ back again at nicht gien he likes; to wan'er--"
 aih! he likes to hear the sea moanin', an' watch the stars sheenin'!
 --There's a sicht o' oondevelopit releegion in him, as Maister
 Graham says; an' I du not believe 'at the Lord 'll see him wranged
-mair nor 's for 's guid. But it's my belief, gien ye took the
+mair nor 's for 's guid. But it 's my belief, gien ye took the
 leeberty frae the puir cratur, ye wad kill him."
 
 "Then you won't help me!" she cried despairingly. "They tell me
@@ -11502,7 +11502,7 @@ refuse me if I ask a personal favour of you?"
 
 "I maun ken what it is afore I say onything, my lord."
 
-"You may trust me not to require anything you could n't undertake."
+"You may trust me not to require anything you couldn't undertake."
 
 "There micht be twa opinions, my lord."
 
@@ -11514,8 +11514,8 @@ step ayont," said Malcolm.
 "You mean to say your judgment is a safer guide than mine?"
 
 "No, my lord; I micht weel follow yer lordship's jeedgment, but
-gien there be a conscience i' the affair, it's my ain conscience
-I'm bun' to follow, an' no yer lordship's, or ony ither man's.
+gien there be a conscience i' the affair, it 's my ain conscience
+ bun' to follow, an' no yer lordship's, or ony ither man's.
 Suppose the thing 'at seemed richt to yer lordship, seemed wrang
 to me, what wad ye hae me du than?"
 
@@ -11564,7 +11564,7 @@ but calmly:
 on my good nature, young man!"
 
 "Hear me ae moment, my lord," returned Malcolm. "I've been turnin'
-'t ower i' my min', an' I see, plain as the daylicht, that I'm
+'t ower i' my min', an' I see, plain as the daylicht, that
 bun', bein' yer lordship's servan' an' trustit by yer lordship, to
 say that to yersel' the whilk I was nowise bun' to say to Mistress
 Stewart. Sae, at the risk o' angerin' ye, I maun tell yer lordship,
@@ -11577,7 +11577,7 @@ and none the less that he felt Malcolm was in the right.
 "Go to the devil you booby!" he said--even more in impatience
 than in wrath.
 
-"I'm thinkin' I needna budge," retorted Malcolm, angry also.
+" thinkin' I needna budge," retorted Malcolm, angry also.
 
 "What do you mean by that insolence?"
 
@@ -11677,7 +11677,7 @@ pack his plow. Ton't tell it to her, Malcolm!"
 
 "Hoo cud I hit my maister, an' mysel' i' the wrang, daddy?"
 
-"Then she 'll must to it herself," said Duncan quietly, and, with
+"Then she'll must to it herself," said Duncan quietly, and, with
 the lips compressed of calm decision, turned towards the door, to
 get his dirk from the next room.
 
@@ -11693,7 +11693,7 @@ protecting Mr Stewart from the machinations of his mother. Duncan
 listened to all he said with marked sympathy.
 
 "An' gien the markis daur to cross me in 't," said Malcolm at last,
-as he ended, "lat him leuk till himsel', for it's no at a buffet
+as he ended, "lat him leuk till himsel', for it 's no at a buffet
 or twa I wad stick, gien the puir laird was intill 't."
 
 This assurance, indicative of a full courageous intent on the part
@@ -11755,7 +11755,7 @@ it hadna been that I was i' the wrang--weel, things micht hae
 differt."
 
 "Hold your tongue, I tell you. You're an honest, good fellow, and
-I'm sorry I struck you. There!"
+ sorry I struck you. There!"
 
 "I thank yer lordship."
 
@@ -11764,7 +11764,7 @@ boat is on her way round. You must be ready to take charge of her
 the moment she arrives."
 
 "I wull be that, my lord. It doesna shuit me at a' to be sae lang
-upo' the solid: I'm like a cowt upon a toll ro'd."
+upo' the solid:  like a cowt upon a toll ro'd."
 
 The next morning he got a telescope, and taking with him his dinner
 of bread and cheese, and a book in his pocket, went up to the Temple
@@ -11785,7 +11785,7 @@ and not the forgotten scrap of a torn up cloud. As she passed the
 point and turned towards the harbour, the warm amethystine hue
 suddenly vanished from her sails, and she looked white and cold, as
 if the sight of the Death's Head had scared the blood out of her.
-"It 's hersel'!" cried Malcolm in delight. "Aboot the size a muckle
+"It's hersel'!" cried Malcolm in delight. "Aboot the size a muckle
 herrin' boat, but nae mair like ane than Lady Florimel 's like
 Meg Partan! It 'll be jist gran' to hae a cratur sae near leevin'
 to guide an' tak yer wull o'! I had nae idea she was gaein' to be
@@ -11980,7 +11980,7 @@ anything paad should happen to tem."
 She led him hurriedly to the door. But ere he had quite crossed
 the threshold he shivered and drew back.
 
-"Tis is an efil house," he said. "She 'll not can co in." A great
+"Tis is an efil house," he said. "she'll not can co in." A great
 floundering racket was going on above, mingled with growls and
 shrieks, but there was no howling.
 
@@ -12061,7 +12061,7 @@ effec' o' 't. It seems no that ill."
 "Ye son o' a deevil's soo!" cried the woman; "I s' hae amen's o'
 ye for this, gien I sud ro'st my ain hert to get it."
 
-"'Deed, but ye re duin that fine a'ready! That foul brute o' yours
+"'Deed, but ye're duin that fine a'ready! That foul brute o' yours
 has gotten his arles (earnest) tu. I wonner what he thinks o sawmon
 troot noo!--Eh, mem?"
 
@@ -12114,7 +12114,7 @@ he said. "I shall be compelled to get you a governess."
 
 "Really, papa," she returned, "I don't see the good of having
 a marquis for a father, if I can't go about as safe as one of the
-fisher children. And I might just as well be at school, if I'm not
+fisher children. And I might just as well be at school, if  not
 to do as I like."
 
 "What if the dog had turned on you!" he said.
@@ -12196,7 +12196,7 @@ the sea met at half tide.
 The moment they rounded it--
 
 "Luik there, my lord," cried Malcolm, "--there's Colonsay Castel,
-'at yer lordship gets yer name, I'm thinkin', an', ony gait, ane o'
+'at yer lordship gets yer name,  thinkin', an', ony gait, ane o'
 yer teetles frae. It maun be mony a hunner year sin' ever Colonsay
 baid intill 't!"
 
@@ -12226,7 +12226,7 @@ crest of the cliff.
 "It is poor for a ruin even!" said Lord Lossie.
 
 "But jist consider hoo auld the place is, my lord!--as auld as the
-time o' the sea rovin' Danes, they say. Maybe it's aulder nor King
+time o' the sea rovin' Danes, they say. Maybe it 's aulder nor King
 Alfred! Ye maun regaird it only as a foondation; there's stanes eneuch
 lyin' aboot to shaw 'at there maun hae been a gran' supperstructur
 on 't ance. I some think it has been ance disconneckit frae the
@@ -12258,7 +12258,7 @@ asked Florimel, seriously, but with fun in her eyes.
 
 "What do you mean by that?"
 
-"Ye'll see whan ye win in till 't. There 's a heap o' voutit places
+"Ye'll see whan ye win in till 't. there's a heap o' voutit places
 inside yon blin' face. Du ye see yon wee bit squaur winnock? That
 lats the licht in till ane o' them. There maybe vouts aneath vouts,
 for them 'at ye can win intill 's half fu' o' yird an' stanes. I
@@ -12271,7 +12271,7 @@ it."
 
 "That would ruin a tolerably rich man," said the marquis..
 
-"Ony gait it's no the w'y fowk ruins themsel's nooadays, my lord.
+"Ony gait it 's no the w'y fowk ruins themsel's nooadays, my lord.
 They'll pu' doon an auld hoose ony day to save themsel's blastin'
 poother. There's that gran' place they ca' Huntly Castel!--
 a suckin' bairn to this for age, but wi' wa's, they tell me, wad
@@ -12418,7 +12418,7 @@ me."
 
 "Nonsense! Go along," said the marquis.
 
-"But I'm no jokin'," persisted Malcolm.
+"But  no jokin'," persisted Malcolm.
 
 "Yes, yes; we'll be careful," returned his master impatiently, and
 Malcolm ran down the hill, but not altogether satisfied with the
@@ -12531,7 +12531,7 @@ herself called by name.
 "Who's there?" she faltered, with her heart in her throat hardly
 knowing whether she spoke or not.
 
-"There's nobody here," answered the voice. "I'm in my own bedroom
+"There's nobody here," answered the voice. " in my own bedroom
 at home, where your dog killed mine."
 
 It was the voice of Mrs Catanach, but both words and tone were
@@ -12543,7 +12543,7 @@ restored Lady Florimel's speech.
 "How dare you talk such nonsense?" she said.
 
 "Don't anger me again," returned the voice. "I tell you the truth.
-I'm sorry I spoke to your ladyship as I did this morning. It was
+ sorry I spoke to your ladyship as I did this morning. It was
 the sight of my poor dog that drove me mad."
 
 "I couldn't help it. I tried to keep mine off him, as you know."
@@ -12571,7 +12571,7 @@ old family."
 it?"
 
 "Nothing, my lady--or himself either. I hold the handle of the
-business. But you needn't think it's from any favour for him. I
+business. But you needn't think it 's from any favour for him. I
 don't care what comes of him. There's no love lost between him and
 me. You heard yourself this very day, how he abused both me and my
 poor dog who is now lying dead on the bed beside me!"
@@ -12596,7 +12596,7 @@ and clear.
 "You're not going down so!" said the marquis angrily. "You'll slip
 to a certainty, and send her to the bottom."
 
-"My lord," returned Malcolm, "I ken what I'm aboot, an' ye dinna.
+"My lord," returned Malcolm, "I ken what  aboot, an' ye dinna.
 I beg 'at ye'll haud ootby, an' no upset the lassie, for something
 maun depen' upon hersel'. Jist gang awa' back into that ither vout,
 my lord. I insist upo' 't."
@@ -12605,14 +12605,14 @@ His lordship obeyed, and Malcolm, who had been pulling off his
 boots as he spoke, now addressed Mair.
 
 "Here, Peter!" he said, "haud on to the tail o' that rope like grim
-deith.--Na, I dinna want it roon' me; it's to gang roon' her.
+deith.--Na, I dinna want it roon' me; it 's to gang roon' her.
 But dinna ye haul, for it micht hurt her, an' she'll lippen to me
 and come up o' hersel."
 
 
 
 "Dinna be feart, my bonny leddy: there's nae danger--no ae grain.
-I'm comin'."
+ comin'."
 
 
 With the rope in his hand, he walked down the incline, and kneeling
@@ -12627,7 +12627,7 @@ gien ye lay i' yer minnie's lap!"
 drop right down into it if I do!" she faltered, beginning to sob.
 
 "Nae fear o' that! There! ye canna fa' noo, for Blue Peter has the
-other en', and Peter's as strong 's twa pownies. I'm gaein to tak
+other en', and Peter's as strong 's twa pownies.  gaein to tak
 aff yer shune neist."
 
 So saying, he lowered himself a little through the breach, holding
@@ -12813,7 +12813,7 @@ tongue cud tell, an' gien she wad hae him, he wad be her slave for
 ever.
 
 "'Ye s' be that,' says she, an' leuch him to scorn. 'Gang efter
-yer beggar wife,' she says; 'I'm sick o' ye.'
+yer beggar wife,' she says; ' sick o' ye.'
 
 "He rase, an' teuk up 's bannet, an' loupit the hedge, an' gae a
 blast upo' 's horn, an' gethered his men, an' steppit aboord his
@@ -12974,7 +12974,7 @@ upo' the table. The butler did as he was tauld, an' set doon the
 decanter, an' a glaiss aside it; but the prence bannt him jist
 fearfu', an' ordert him to tak awa that playock, and fess a tum'ler.
 
-"I'm thinkin', my lord, that maun be a modern touch," remarked
+" thinkin', my lord, that maun be a modern touch," remarked
 Malcolm here, interrupting himself: "there wasna glaiss i' thae
 times--was there?"
 
@@ -13254,7 +13254,7 @@ long ago, but which he had not hitherto propounded to his friend
 Malcolm, reversing its relations, proposed next, the consequences
 of a man's being in love with a ghost or an angel.
 
-"I'm dreidfu' tired o' lyin' here i' my bed," said Malcolm at length
+" dreidfu' tired o' lyin' here i' my bed," said Malcolm at length
 when, neither desiring to carry the conversation further, a pause
 had intervened. "I dinna ken what I want. Whiles I think its the
 sun, whiles the win', and whiles the watter. But I canna rist. Haena
@@ -13343,7 +13343,7 @@ of his broad chest, lifted up his head, like one who had formed a
 resolution, and said:
 
 "The hour has come. She has long peen afrait to meet it, put it has
-come, and Allister will meet it.--She 'll not pe your cran'father,
+come, and Allister will meet it.--she'll not pe your cran'father,
 my son."
 
 He spoke the words with perfect composure, but as soon as they were
@@ -13362,7 +13362,7 @@ afterwards.
 "Ye're my ain daddy, whatever ye are!" he said. "Tell me a' aboot
 it, daddy."
 
-"She 'll tell you all she 'll pe knowing, my son, and she nefer
+"she'll tell you all she'll pe knowing, my son, and she nefer
 told a lie efen to a Cawmill."
 
 He began his story in haste, as if anxious to have it over, but had
@@ -13381,11 +13381,11 @@ son?" persisted Duncan.
 
 "I hae as muckle as ever I had, daddy."
 
-"Yes, put you 'll tidn't know."
+"Yes, put you'll tidn't know."
 
 "But ye did, daddy."
 
-"Yes, and inteet she cannot tell why she 'll pe loving you so much
+"Yes, and inteet she cannot tell why she'll pe loving you so much
 herself aal ta time!"
 
 "Weel, daddy, gien ye cud lo'e me sae weel, kennin' me nae bluid's
@@ -13395,7 +13395,7 @@ ye hae been father an' gran'father an' a' to me!"
 
 "What could she do, Malcolm, my poy? Ta chilt had no one, and she
 had no one, and so it wass. You must pe her own poy after all! And
-she 'll not pe wondering put.--It might pe.--Yes, inteed not!"
+she'll not pe wondering put.--It might pe.--Yes, inteed not!"
 
 His voice sank to the murmurs of a half uttered soliloquy, and as
 he murmured he stroked Malcolm's cheek.
@@ -13436,7 +13436,7 @@ her. She'll haf claaws to her poosoms."
 
 "Weel, daddy, there was naething ither to gar ye lo'e me. I was
 jist a helpless human bein', an' sae for that, an' nae ither rizzon,
-ye tuik a' that fash wi' me! An' for mysel', I'm deid sure I cudna
+ye tuik a' that fash wi' me! An' for mysel',  deid sure I cudna
 lo'e ye better gien ye war twise my gran'father."
 
 "He's her own poy!" cried the piper, much comforted; and his hand
@@ -13591,7 +13591,7 @@ consideration seized one of a brace of pistols which lay on a table
 by his side, and fired. The ball went with a sharp thud into the
 thick mahogany door.
 
-"My lord! my lord!" cried Malcolm, "it's only me!"
+"My lord! my lord!" cried Malcolm, "it 's only me!"
 
 "And who the devil are you?" returned the marquis, snatching up
 the second pistol.
@@ -13915,7 +13915,7 @@ got him a cup of tea, and waited upon him with the tenderness of a
 woman. While he drank his tea, Malcolm recounted his last adventure
 in connection with the wizard's chamber.
 
-"Tat will be ta ped she 'll saw in her feeshon," said Duncan, whose
+"Tat will be ta ped she'll saw in her feeshon," said Duncan, whose
 very eyes seemed to listen to the tale.
 
 When Malcolm came to Mrs Catanach's assertion that she knew more
@@ -13960,7 +13960,7 @@ to a gloomy recess in the rock behind, he went to peep into it,
 curious to see what sort of a place it was.
 
 Now the foolish whim of a past generation had, in the farthest corner
-of the recess, and sideways from. the door, seated the figure of a
+of the recess, and sideways from the door, seated the figure of a
 hermit, whose jointed limbs were so furnished with springs and so
 connected with the stone that floored the entrance, that as soon
 as a foot pressed the threshold, he rose, advanced a step, and held
@@ -13979,7 +13979,7 @@ turned to flee!--though why, or from what, he had scarce an idea.
 But when he turned he encountered the marquis, who was just entering
 the arbour.
 
-"Well, MacPhail," he said kindly, "I'm glad--"
+"Well, MacPhail," he said kindly, " glad--"
 
 But his glance became fixed in a stare; he changed colour, and did
 not finish his sentence.
@@ -14036,7 +14036,7 @@ Malcolm stood silent for one moment.
 --than--a woman!" said his master, concluding with an effort.
 
 "I was jist turnin' ower an auld question, my lord--whether it
-be lawfu' to obey a tyrant. But it's na worth stan'in' oot upo'.
+be lawfu' to obey a tyrant. But it 's na worth stan'in' oot upo'.
 I s' gang."
 
 He turned to the arch, placed a hand on each side of it, and leaned
@@ -14382,7 +14382,7 @@ marquis, dropping his eyes.
 
 "What! is he troublesome next?
 
-"Ow, na! I'm no thinkin' 't; but 'deed I dinna ken, my lord!" said
+"Ow, na!  no thinkin' 't; but 'deed I dinna ken, my lord!" said
 Malcolm.
 
 "What do you mean, then?"
@@ -14415,7 +14415,7 @@ what o' her 's deevil,"
 "Nonsense!" said the marquis, angrily; but Malcolm went on:
 
 "--maun be jist fu' o' ghaists! An' for onything I ken, that 'll
-be what maks ghaists o' themsel's efter they 're deid, settin'
+be what maks ghaists o' themsel's efter they're deid, settin'
 them waukin', as they ca' 't. It's full waur nor bein' possessed
 wi' deevils, an' maun be a hantle mair ooncoamfortable.--But I
 wad hae yon door opent, my lord."
@@ -14457,7 +14457,7 @@ muckle for a' 'at hings on to them. There's o' them, nae doobt,
 wha wad fain win to h'aven ohn left their sins ahin' them; but they
 get nae encouragement frae Maister MacLeod. Blue Peter, 'at gangs
 oot wi' 's i' yer lordship's boat--he's ane o' their best men--
-though he never gangs ayont prayin', I'm tauld."
+though he never gangs ayont prayin',  tauld."
 
 "Which is far enough, surely," said his lordship, who, belonging to
 the Episcopal church, had a different idea concerning the relative
@@ -14522,7 +14522,7 @@ get. A'body likes to get it."
 "Far eneuch, gien 't cairry me throu', my lord."
 
 "How absolute the knave is!" said his lordship good humouredly. "--
-Well, but," he resumed, "--about these fishermen: I'm only afraid
+Well, but," he resumed, "--about these fishermen:  only afraid
 Mr Cairns was right."
 
 "What said he, my lord?"
@@ -14538,7 +14538,7 @@ your bein' there."
 other sure mode of testing your assertion. What a pity the only
 thorough way should be an impossible one!"
 
-"To a' practical purpose, it's easy eneuch, my lord. Jist gang ohn
+"To a' practical purpose, it 's easy eneuch, my lord. Jist gang ohn
 be seen the first nicht, an' the neist gang in a co'ch an' fower.
 Syne compaur."
 
@@ -14553,7 +14553,7 @@ the richt o' interferin' gangs; that's anither thing a'thegither."
 
 "I see you're a thorough going rebel yourself."
 
-"Naething o' the kind, my lord. I'm only sae far o' yer lordship's
+"Naething o' the kind, my lord.  only sae far o' yer lordship's
 min' 'at I like fair play--gien a body could only be aye richt
 sure what was fair play!"
 
@@ -14563,14 +14563,14 @@ could never condescend to play the spy."
 
 "What a body has a richt to hear, he may hear as he likes--either
 shawin' himsel' or hidin' himsel'. An' it 's the only plan 'at 's
-fair to them, my lord. It 's no 's gien yer lordship was lyin' in
+fair to them, my lord. It's no 's gien yer lordship was lyin' in
 wait to du them a mischeef: ye want raither to du them a kin'ness,
 an' tak their pairt."
 
 "I don't know that, Malcolm. It depends."
 
 "It's plain yer lordship's prejudeezed i' their fawvour. Ony. gait
-I 'm sartin it's fair play ye want; an' I canna for the life o' me
+ sartin it 's fair play ye want; an' I canna for the life o' me
 see a hair o' wrang i' yer lordship's gaein' in a cogue, as auld
 Tammy Dyster ca's 't; for, at the warst, ye cud only interdick
 them, an' that ye cud du a' the same, whether ye gaed or no. An',
@@ -14584,7 +14584,7 @@ be very amusing."
 
 "I'll no promise ye that," returned Malcolm. "I dinna ken aboot
 that.--There's jist ae objection hooever: ye wad hae to gang a
-guid hoor afore they begoud to gaither.--An' there 's aye laadies
+guid hoor afore they begoud to gaither.--An' there's aye laadies
 aboot the place sin' they turned it intill a kirk!" he added
 thoughtfully. "But," he resumed, "we cud manage them."
 
@@ -14721,16 +14721,16 @@ upo' 't, whaurever that woman is, there there's mischeef! Whaur
 she taks a scunner at a body, she hates like the verra deevil. She
 winna aye lat them ken 't, but taks time to du her ill turns. An'
 it 's no that only, but gien she gets a haud o' onything agane
-anybody, she 'll save 't up upo' the chance o' their giein' her
+anybody, she'll save 't up upo' the chance o' their giein' her
 some offence afore they dee. She never lowses haud o' the tail o'
-a thing, an' at her ain proaper time, she 's in her natur' bun' to
+a thing, an' at her ain proaper time, she's in her natur' bun' to
 mak the warst use o' 't."
 
 Malcolm was anxious both to keep them still, and to turn aside any
 further inquiry as to the face Florimel had seen. Again he peeped
 out.
 
-"What is she efter noo? She 's comin' this gait," he went on, in
+"What is she efter noo? she's comin' this gait," he went on, in
 a succession of whispers, turning his head back over his shoulder
 when he spoke. "Gien she thoucht ther was a hole i' the perris she
 didna ken a' the oots an' ins o', it wad baud her ohn sleepit.--
@@ -14747,7 +14747,7 @@ and then, as it swung in her hand, shone upon her pale, pulpy, evil
 countenance.
 
 "Gien she tries to come up, I'll hae to caw her doon," he said to
-himself, "an' I dinna like it, for she 's a wuman efter a', though
+himself, "an' I dinna like it, for she's a wuman efter a', though
 a deevilich kin' o' a ane; but there's my leddy! I hae broucht her
 intill 't, an' I maun see her safe oot o' 't!"
 
@@ -14768,7 +14768,7 @@ As soon as the singing commenced, Malcolm whispered to Lady Florimel,
 "A man's face--the same we saw in the storm," she answered, and
 Malcolm felt her shudder as she spoke.
 
-"It 's naething but the mad laird," he said. "He 's better nor
+"It's naething but the mad laird," he said. "He 's better nor
 hairmless. Dinna say a word to yer father my leddy. I dinna like
 to say that, but I 'll tell ye a' what for efterhin'."
 
@@ -14841,8 +14841,8 @@ At length Malcolm, concluding from the silence that the meeting had
 thoroughly skailed, peeped cautiously out to make sure. But after
 a moment, he drew back, saying in a regretful whisper,
 
-"I 'm sorry ye canna gang yet, my lord. There's some half a dizzen
-o' ill luikin' chields, cairds (gipsies), I 'm thinkin', or maybe
+" sorry ye canna gang yet, my lord. There's some half a dizzen
+o' ill luikin' chields, cairds (gipsies),  thinkin', or maybe
 waur, congregat doon there, an' it 's my opinion they're efter nae
 guid, my lord."
 
@@ -14857,7 +14857,7 @@ haud oot o' sicht."
 
 "How long do you mean to keep us here?" asked the marquis impatiently.
 
-"Till it's safe to gang, my lord. For onything I ken, they may be
+"Till it 's safe to gang, my lord. For onything I ken, they may be
 efter comin' up here. They may be used to the place--though I
 dinna think it."
 
@@ -14878,8 +14878,8 @@ an' no speyk a word."
 "If you tell them who papa is," said Florimel, "they won't do us
 any harm, surely!"
 
-"I 'm nane sae sure o' that.  They micht want to ripe 's pooches
-(search his pockets), an' my lord wad ill stan' that, I 'm thinkin'!
+" nane sae sure o' that.  They micht want to ripe 's pooches
+(search his pockets), an' my lord wad ill stan' that,  thinkin'!
 Na, na. Jist stan' ye back, my lord an' my leddy, an' dinna speyk
 a word. I s' sattle them. They're sic villains, there nae terms to
 be hauden wi' them."
@@ -14966,14 +14966,14 @@ uneasy, and hurried them on.
 
 "What are you frightened at now?" asked his lordship.
 
-"Naething," answered Malcolm, adding to himself however, "I 'm
-fleyt at naethin'--I 'm fleyt for the laird."
+"Naething," answered Malcolm, adding to himself however, "
+fleyt at naethin'-- fleyt for the laird."
 
 As they approached the tunnel, he fell behind.
 
 "Why don't you come on?" said his lordship.
 
-"I 'm gaein' back noo 'at ye 're safe," said Malcolm.
+" gaein' back noo 'at ye're safe," said Malcolm.
 
 "Going back! What for?" asked the marquis.
 
@@ -14982,7 +14982,7 @@ As they approached the tunnel, he fell behind.
 "Not alone, surely!" exclaimed the marquis. "At least get some of
 your people to go with you."
 
-"There 's nae time, my lord. Dinna be fleyt for me: I s' tak care
+"there's nae time, my lord. Dinna be fleyt for me: I s' tak care
 o' mysel'."
 
 He was already yards away, running at full speed. The marquis
@@ -15077,7 +15077,7 @@ adding: "Is yer man in?"
 
 "Ay!" she went on, without heeding either question; "ye'll be gran'
 set up noo! Ye'll no be hain' 'a fine day' to fling at yer auld
-freen's, the puir fisher fowk, or lang! Weel! it's the w'y o' the
+freen's, the puir fisher fowk, or lang! Weel! it 's the w'y o' the
 warl! Hech, sirs!"
 
 "What on earth 's set ye aff like that Mrs Findlay?" said Malcolm.
@@ -15089,7 +15089,7 @@ like the Partan."
 "Hoots! Nane o' yer clavers! Ye ken weel eneuch what I mean--as
 weel 's ilka ither creatit sowl o' Portlossie. An' gien ye dinna
 chowse to lat on aboot it till an auld freen' cause she's naething
-but a fisherwife, it's dune ye mair skaith a'ready nor I thocht it
+but a fisherwife, it 's dune ye mair skaith a'ready nor I thocht it
 wad to the lang last, Ma'colm--for it 's yer ain name I s' ca'
 ye yet, gien ye war ten times a laird!--didna I gie ye the breist
 whan ye cud du naething i' the wardle but sowk?--An' weel ye
@@ -15102,7 +15102,7 @@ nor a sawtit herrin' what ye're drivin' at."
 aboot yer ain sel'!" screamed the Partaness.
 
 "I tell ye I ken naething; an' gien ye dinna tell me what ye're
-efter direckly, I s' haud awa' to Mistress Allison--she 'll tell
+efter direckly, I s' haud awa' to Mistress Allison--she'll tell
 me."
 
 This was a threat sufficiently prevailing.
@@ -15136,7 +15136,7 @@ Startled by Malcolm's look, he gazed at him in grave silent enquiry.
 
 "Hae ye h'ard the ill news, sir?" said the youth.
 
-"No; I'm sorry to hear there is any."
+"No;  sorry to hear there is any."
 
 "They tell me Mistress Stewart's rinnin' aboot the toon claimin'
 me!"
@@ -15147,11 +15147,11 @@ me!"
 
 "Not for her son?"
 
-"Ay, sir--that 's what they say. But ye haena h'ard o' 't?"
+"Ay, sir--that's what they say. But ye haena h'ard o' 't?"
 
 "Not a word."
 
-"Then I believe it's a' havers!" cried Malcolm energetically. "It
+"Then I believe it 's a' havers!" cried Malcolm energetically. "It
 was sair eneuch upo' me a'ready to ken less o' whaur I cam frae
 than the puir laird himsel'; but to come frae whaur he cam frae,
 was a thocht ower sair!"
@@ -15162,7 +15162,7 @@ have the same parents with him!" said Mr Graham.
 "The verra contrar', sir. But a wuman wha wad sae misguide the son
 o' her ain body, an' for naething but that, as she had broucht him
 furth, sic he was!--it 's no to be lichtly believed nor lichtly
-endured. I s' awa' to Miss Horn an' see whether she 's h'ard ony
+endured. I s' awa' to Miss Horn an' see whether she's h'ard ony
 sic leeing clashes."
 
 But as Malcolm uttered her name, his heart sank within him, for
@@ -15197,7 +15197,7 @@ there bude to be some nait'ral drawin's atween 's, a body wad think.
 But it winna haud, for there's the laird! The verra name o' mither
 gars him steik his lugs an' rin."
 
-"Still, if she be your mother, it's for better for worse as much
+"Still, if she be your mother, it 's for better for worse as much
 as if she had been your own choice."
 
 "I kenna weel hoo it cud be for waur," said Malcolm, who did not
@@ -15306,7 +15306,7 @@ other things--namely, that you give this woman--whatever she
 be--fair play: if she be your mother, as such you must take her,
 that is, as such you must treat her."
 
-"Ye 're richt, sir," returned Malcolm, and rose.
+"ye're richt, sir," returned Malcolm, and rose.
 
 "Come back to me," said Mr Graham, "with whatever news you gather."
 
@@ -15323,7 +15323,7 @@ There sat Miss Horn.
 ower to Gersefell, I reckon."
 
 "Forbid it!" answered Malcolm. "Never till this hoor--or at maist
-it's nae twa sin' I h'ard the first cheep o' 't, an' that was frae
+it 's nae twa sin' I h'ard the first cheep o' 't, an' that was frae
 Meg Partan. To nae human sowl hae I made mention o' 't yet 'cep'
 Maister Graham: to him I gaed direck."
 
@@ -15390,7 +15390,7 @@ till Gersefell, as I tellt ye, wi' a letter frae the markis. I
 thoucht I was ower mony for her than: I wonner she daur be at me
 again."
 
-"She 's daurt her God er' noo, an' may weel daur you.--But what
+"she's daurt her God er' noo, an' may weel daur you.--But what
 says yer gran'father till 't, no?"
 
 "He hasna hard a chuckie's cheep o' 't."
@@ -15429,11 +15429,11 @@ done.
 
 "Ony wuman can lay a claim till me 'at likes, ye see," said Malcolm.
 
-"She may lay 'at she likes, but it's no ilka egg laid has a chuckie
+"She may lay 'at she likes, but it 's no ilka egg laid has a chuckie
 intill 't," answered Miss Horn sententiously. "Jist ye gang hame
 to auld Duncan, an' tell him to turn the thing ower in 's min' till
 he's able to sweir to the verra nicht he fan' the bairn in 's lap.
-But no ae word maun he say to leevin' sowl aboot it afore it's
+But no ae word maun he say to leevin' sowl aboot it afore it 's
 requiret o' 'im."
 
 "I wad be the son o' the puirest fisher wife i' the Seaton raither
@@ -15763,7 +15763,7 @@ the end of it to be the Boar's Craig, and the last word to mean,
 as it often does, not Crag, but Neck, like the German kragen, and
 perhaps the English scrag.
 
-"I'm sorry for't, my lord," said Malcolm; "but I'm sure yer lordship
+" sorry for't, my lord," said Malcolm; "but  sure yer lordship
 had the worth o' 't in fun."
 
 "I can't deny that," returned the marquis.
@@ -15888,7 +15888,7 @@ that feeling is but a mere vapour until condensed into character!
 that the only process through which it can be thus consolidated
 is well doing--the putting forth of the right thing according to
 the conscience universal and individual, and that thus, and thus
-only, can the veil be .withdrawn from between the man and his God,
+only, can the veil be withdrawn from between the man and his God,
 and the man be saved in beholding the face of his Father!
 
 "But have patience--give them time," said Mr Graham, who had
@@ -15990,7 +15990,7 @@ startled by his look.
 "Where have you been, Malcolm?" she exclaimed.
 
 "I hardly ken, my leddy: somewhaur aboot the feet o' Mount Pisgah,
-I 'm thinkin', if no freely upo' the heid o' 't."
+ thinkin', if no freely upo' the heid o' 't."
 
 "That's not the name of the hill up there!"
 
@@ -16037,7 +16037,7 @@ never yet sought him?
 As he brooded thus, on his way to Duncan's cottage, and, heedless
 of the sound of coming wheels, was crossing the road which went
 along the bottom of the glen, he was nearly run over by a carriage
-coming round the corner of a high bank at a fast trot Catching one
+coming round the corner of a high bank at a fast trot. Catching one
 glimpse of the face of its occupant, as it passed within a yard
 of his own, he turned and fled back through the woods, with again
 a horrible impulse to howl to the winds the cry of the mad laird:
@@ -16235,7 +16235,7 @@ confluence of the tides of love and misery, sighed out between the
 pulses in his throat:
 
 "There's naething I could na tell ye 'at ever I thoucht or did i'
-my life, my leddy; but it's ither fowk, my leddy! It's like to burn
+my life, my leddy; but it 's ither fowk, my leddy! It's like to burn
 a hole i' my hert, an' yet I daurna open my mou'."
 
 There was a half angelic, half dog-like entreaty in his up looking
@@ -16246,7 +16246,7 @@ stop to that.
 Courthope think?"
 
 "I dinna ken, an' I maist dinna care; atween ae thing an' anither,
-I'm near han' distrackit," answered Malcolm, rising slowly, but
+ near han' distrackit," answered Malcolm, rising slowly, but
 not taking his eyes from her face. "An' there's my daddy!" he went
 on, "maist won ower to the enemy--an' I daurna tell even him what
 for I canna bide it!--Ye haena been sayin' onything till him--
@@ -16370,7 +16370,7 @@ than you were before--and no better," she added with a sigh.
 
 Malcolm lifted his questioning to her searching eyes.
 
-"Don't you .see," she went on, very softly, and lowering her look,
+"Don't you see," she went on, very softly, and lowering her look,
 from the half conscious shame of half unconscious falseness, "I
 can't be all my life here at Lossie? We shall have to say goodbye
 to each other--never to meet again most likely. But if you should
@@ -16475,7 +16475,7 @@ CHAPTER L: LIZZY FINDLAY
 Leaving his boat again on the dry sand that sloped steep into the
 harbour, Malcolm took his way homeward along the shore. Presently
 he spied, at some little distance in front of him, a woman sitting
-on the .sand, with her head bowed upon her knees. She had no shawl,
+on the sand, with her head bowed upon her knees. She had no shawl,
 though the wind was cold and strong, blowing her hair about wildly.
 Her attitude and whole appearance were the very picture of misery.
 He drew near and recognized her.
@@ -16491,7 +16491,7 @@ yet rendered him indifferent to that of another. "Is 't onything
 
 Another sob was the only answer.
 
-"I'm in a peck o' troubles mysel'," said Malcolm. "I wad fain help
+" in a peck o' troubles mysel'," said Malcolm. "I wad fain help
 a body gien I cud."
 
 "Naebody can help me," returned the girl, with an agonized burst,
@@ -16510,13 +16510,13 @@ blaw ower. She cuils as fest 's she heats."
 As he spoke he set himself down on the sand beside her. But Lizzy
 started to her feet, crying,
 
-"Dinna come near me, Ma'colm. I'm no fit for honest man to come
+"Dinna come near me, Ma'colm.  no fit for honest man to come
 nigh me. Stan' awa'; I hae the plague."
 
 She laughed, but it was a pitiful laugh, and she looked wildly
 about, as if for some place to run to.
 
-"I wad na be sorry to tak it mysel', Lizzy. At ony rate I'm ower
+"I wad na be sorry to tak it mysel', Lizzy. At ony rate  ower
 auld a freen' to be driven frae ye that gait," said Malcolm, who
 could not bear the thought of leaving her on the border of the
 solitary sea, with the waves barking at her all the cold winterly
@@ -16588,7 +16588,7 @@ till 't."
 
 "I haena muckle time to spare," said Malcolm; "but I'll tak a cup
 o' tay wi' ye. Gien 't warna for wee bit luggies (small ears) I
-wad fain spier yer advice aboot ane 'at wants a wuman freen', I'm
+wad fain spier yer advice aboot ane 'at wants a wuman freen',
 thinkin'."
 
 Phemy, who had been regarding him with compressed lips and suspended
@@ -16646,11 +16646,11 @@ Malcolm understood it now.
 "She's like a' the lave (rest)!" he said sadly, turning to her
 mother.
 
-"I'm jist affrontit wi' the bairn!" she replied, with manifest
+" jist affrontit wi' the bairn!" she replied, with manifest
 annoyance in her flushed face.
 
 "She's true to him," said Malcolm, "gien she binna fair to me.
-Sayna a word to the lassie. She 'll ken me better or lang. An' noo
+Sayna a word to the lassie. she'll ken me better or lang. An' noo
 for my story."
 
 Mrs Mair said nothing while he told how he had come upon Lizzy,
@@ -16662,7 +16662,7 @@ Her husband rose also.
 "I 'll jist gang as far 's the Boar's Craig wi' ye mysel', Annie,"
 he said.
 
-"I'm thinkin' ye'll fin' the puir lassie whaur I left her," remarked
+" thinkin' ye'll fin' the puir lassie whaur I left her," remarked
 Malcolm. "I doobt she daured na gang hame."
 
 That night it was all over the town, that Lizzy Findlay was in a
@@ -16820,7 +16820,7 @@ scattered a quantity of dried rose leaves. A thick tartan plaid,
 for sole covering, lay upon the heap.
 
 "I wad hae likit hay better," he said, pointing to this lair rather
-than couch, "but it's some ill to get, an' the spales they 're at
+than couch, "but it 's some ill to get, an' the spales they're at
 han', an' they smell unco clean."
 
 At the opposite side of the room lay a corresponding heap,
@@ -16934,7 +16934,7 @@ an expression of disapproval. Mrs Mair only, who was walking with
 a friend, gave him a kind nod. Blue Peter, who followed at a little
 distance, turned and walked back with him.
 
-"I'm exerceesed i' my min'," he said, as soon as they were clear
+" exerceesed i' my min'," he said, as soon as they were clear
 of the stragglers, "aboot the turn things hae taen, doon by at the
 Barn."
 
@@ -16953,7 +16953,7 @@ had committit jeedgment into their han's."
 "It's no sae muckle," answered Peter, "for onything they du, as for
 what they believe or dinna believe. There's an 'uman frae Clamrock
 was o' their pairty the nicht. She stude up an' spak weel, an' weel
-oot, but no to muckle profit, as 't seemed to me; only I'm maybe
+oot, but no to muckle profit, as 't seemed to me; only  maybe
 no a fair jeedge, for I cudna be rid o' the notion 'at she was
 lattin' at mysel' a' the time. I dinna ken what for. An' I cudna
 help wonnerin' gien she kent what fowk used to say aboot hersel'
@@ -16963,7 +16963,7 @@ her head, i' place o' exaltin' her horn on high. But maybe it was
 a' lees--she kens best hersel'."
 
 "There canna be muckle worship gaein' on wi' ye by this time, than,
-I'm thinkin'," said Malcolm.
+ thinkin'," said Malcolm.
 
 "I dinna like to say 't," returned Joseph; "but there's a speerit
 o' speeritooal pride abroad amang 's, it seems to me, 'at's no
@@ -17069,7 +17069,7 @@ supporting a bookcase with glass doors, crowded with well worn
 bindings. A few deal chairs completed the furniture.
 
 "It's a sair vex, sir, to think o' what we a' jeedged to be the
-wark o' the speerit takin' sic a turn! I'm feart it 'll lie heavy at
+wark o' the speerit takin' sic a turn!  feart it 'll lie heavy at
 oor door," said Blue Peter, after a sketch of the state of affairs.
 
 "I don't think they can have sunk so low as the early Corinthian
@@ -17140,7 +17140,7 @@ and so called successful preaching could."
 it will give light. No talking about light will supply the lack of
 its presence either to the talker or the listeners."
 
-"There 's a heap made o' the preachin' o' the word i' the buik
+"there's a heap made o' the preachin' o' the word i' the buik
 itsel'," said Peter with emphasis.
 
 "Undoubtedly. But just look at our Lord: he never stopped living
@@ -17172,10 +17172,10 @@ of his people. This would have saved you from false relations with
 men that oppose themselves, caring nothing for the truth--perhaps
 eager to save their souls, nothing more at the very best."
 
-"Sir! sir! what wad ye hae? Daur ye say it's no a body's first duty
+"Sir! sir! what wad ye hae? Daur ye say it 's no a body's first duty
 to save his ain sowl alive?" exclaimed Bow o' meal.
 
-"I daur't--but there 's little daur intill 't!" said Mr Graham,
+"I daur't--but there's little daur intill 't!" said Mr Graham,
 breaking into Scotch.
 
 Bow o' meal rose from his chair in indignation, Blue Peter made a grasp
@@ -17189,7 +17189,7 @@ the Catechism says-. 'Man's chief end is to glorify God.'"
 
 "And to enjoy him for ever," supplemented Peter.
 
-"That 's a safe consequence. There's no fear of the second if he
+"that's a safe consequence. There's no fear of the second if he
 does the first. Anyhow he cannot enjoy him for ever this moment,
 and he can glorify him at once."
 
@@ -17198,7 +17198,7 @@ reply.
 
 "Just as Jesus Christ did--by doing his will--by obedience."
 
-"That's no faith--it's works! Ye'll never save yer sowl that
+"That's no faith--it 's works! Ye'll never save yer sowl that
 gait."
 
 "No man can ever save his soul. God only can do that. You can
@@ -17261,7 +17261,7 @@ what seem to me the principles involved: I can do no more."
 "Are you prepared then to take my advice?"
 
 "Ye wadna hae a body du that aforehan'! We micht as weel a' be
-Papists, an' believe as we 're tauld."
+Papists, an' believe as we're tauld."
 
 "Precisely so. But you can exercise your judgment upon the principles
 whereon my opinion is founded, with far more benefit than upon my
@@ -17398,8 +17398,8 @@ room, he heard his voice inviting him to enter.
 
 "What for, sir?" asked Malcolm.
 
-"You haven't heard, then, that I'm going to be sent about my
-business? At least, it's more than likely."
+"You haven't heard, then, that  going to be sent about my
+business? At least, it 's more than likely."
 
 Malcolm dropped into a seat, and stared like an idol. Could he have
 heard the words? In his eyes Mr Graham was the man of the place--
@@ -17408,7 +17408,7 @@ mingled impiety and absurdity.
 
 The schoolmaster burst out laughing at him.
 
-"I'm feart to speyk, sir," said Malcolm. "Whatever I say, I'm bun'
+" feart to speyk, sir," said Malcolm. "Whatever I say,  bun'
 to mak a fule o' mysel'! What in plain words div ye mean, sir?"
 
 "Somebody has been accusing me of teaching heresy--in the school
@@ -17489,7 +17489,7 @@ abune a' thing likin' to gie fair play?"
 "No in sae mony words, doobtless; but it says a sicht o' things
 'at wad mak God oot the maist oonrichteous tyrant 'at ever was."
 
-"I 'm not sure you can show that logically," said Mr Graham. "I will
+" not sure you can show that logically," said Mr Graham. "I will
 think it over, however--not that I mean to take up any defence
 of myself. But now I have letters to write, and must ask you to
 leave me. Come and see me again tomorrow."
@@ -17526,7 +17526,7 @@ had been driven to tak coonsel wi' them. But luik at Sandy Graham!
 Ye ken whether he has gumption or no; an' gien he be a stickit
 minister, he stack by the grace o' moadesty. But, haith, I winna
 peety him! for, o' a' things, to peety a guid man i' the richt gate
-is a fule's folly. Troth, I'm a hantle mair concernt about yersel',
+is a fule's folly. Troth,  a hantle mair concernt about yersel',
 Ma'colm!"
 
 Malcolm heard her without apprehension. His cup seemed full, and
@@ -17541,13 +17541,13 @@ standing ghastly on the slopes of his imagination.
 "I wadna be fit to tell ye, laddie, gien 't warna, as ye ken, 'at
 the Almichty 's been unco mercifu' to me i' the maitter o' feelin's.
 Yer freen's i' the Seaton, an' ower at Scaurnose, hae feelin's,
-an' that 's hoo nane o' them a' has pluck it up hert to tell ye o'
+an' that's hoo nane o' them a' has pluck it up hert to tell ye o'
 the waggin' o' slanderous tongues against ye."
 
 "What are they sayin' noo?" asked Malcolm with considerable
 indifference.
 
-"Naither mair nor less than that ye 're the father o' an oonborn
+"Naither mair nor less than that ye're the father o' an oonborn
 wean," answered Miss Horn.
 
 "I dinna freely unnerstan' ye," returned Malcolm, for the unexpectedness
@@ -17570,7 +17570,7 @@ she?"
 
 "Wha but Meg Partan's Lizzy!"
 
-"Puir lassie! is that it?--Eh, but I'm sorry for her! She never
+"Puir lassie! is that it?--Eh, but  sorry for her! She never
 said it was me. An' whaever said it, surely ye dinna believe 't o'
 me, mem?"
 
@@ -17589,14 +17589,14 @@ gien I believed him cawpable o' turnin' oot sic a meeserable,
 contemptible wratch! The Lord come atween me an' my wrath!"
 
 "I beg yer pardon, mem. A body canna aye put things thegither afore
-he speyks. I 'm richt sair obleeged till ye for takin' my pairt."
+he speyks.  richt sair obleeged till ye for takin' my pairt."
 
 "I tak naebody's pairt but my ain, laddie. Obleeged to me for
 haein' a wheen common sense--a thing 'at I was born wi'! Toots!
 Dinna haiver."
 
 "Weel, mem, what wad ye hae me du? I canna sen' my auld daddie
-roon the toon wi' his pipes, to procleem 'at I'm no the man. I 'm
+roon the toon wi' his pipes, to procleem 'at  no the man.
 thinkin' I 'll hae to lea' the place."
 
 "Wad ye sen' yer daddy roun' wi' the pipes to say 'at ye was the
@@ -18001,9 +18001,9 @@ the ruins of his earthly home, and his eyes went listlessly straying
 like servants without a master. Suddenly he found them occupied
 with a low iron studded door in the wall of the house, which he
 had never seen before. He descended, and found it hardly closed,
-for there was no notch to receive the heavy latch. Pushing. it open
+for there was no notch to receive the heavy latch. Pushing it open
 on great rusty hinges, he saw within what in the shadow appeared
-a precipitous descent His curiosity was roused; he stole back
+a precipitous descent. His curiosity was roused; he stole back
 to his room and fetched his candle; and having, by the aid of his
 tinderbox, lighted it in the shelter of the heap, peeped again
 through the doorway, and saw what seemed a narrow cylindrical pit,
@@ -18090,7 +18090,7 @@ to endure his loss.
 CHAPTER LVII: THE LAIRD'S QUEST
 
 
-Things were going pretty well with the laird: Phemy and he drew.
+Things were going pretty well with the laird: Phemy and he drew
 yet closer to each other, and as he became yet more peaceful in her
 company, his thoughts flowed more freely, and his utterance grew
 less embarrassed; until at length, in talking with her, his speech
@@ -18172,7 +18172,7 @@ noise of the tide, and the odour-like wandering of the soft air in
 the convolutions of their ears.
 
 "The lown win' maun be his breath--sae quaiet!--He 's no
-hurryin' himsel' the nicht.--There 's never naebody rins efter
+hurryin' himsel' the nicht.--there's never naebody rins efter
 him.--Eh, Phemy! I jist thoucht he was gauin' to speyk!"
 
 This last exclamation he uttered in a whisper, as the louder gush
@@ -18195,7 +18195,7 @@ the laird. "He micht hae fist setten 't doon, an' the watter hae
 lowed (flamed) up aboot it, an' the low no be willin' to gang oot!
 Luik sharp, Phemy; there may come anither at the neist stride--
 anither fut mark. Luik ye that gait an' I'll luik this.--What for
-willna he come oot? The lift maun be fu' o' 'im, an' I 'm hungert
+willna he come oot? The lift maun be fu' o' 'im, an'  hungert
 for a sicht o' 'im. Gien ye see ony thing, Phemy, cry oot."
 
 "What will I cry?" asked Phemy.
@@ -18249,7 +18249,7 @@ much of that from which everything else has to be developed--
 heart. When they reached the top of the brae, she joined him, and
 said, putting her hand in his, but not looking at, or even turning
 towards him, "Maybe he 'll come oot upo' ye afore ye ken some day
---whan ye 're no luikin' for him."
+--whan ye're no luikin' for him."
 
 The laird stopped, gazed at her for a moment, shook his head, and
 walked on.
@@ -18262,7 +18262,7 @@ through the darkness, for from every crevice a fire illumined smoke
 was pouring. But the companions were not alarmed or even surprised.
 They bent their way towards it without hastening a step, and coming
 to a fence that enclosed a space around it, opened a little gate,
-and passed through. A sleepy watchman challenged them. "It 's me,"
+and passed through. A sleepy watchman challenged them. "It's me,"
 said the laird.
 
 "A fine nicht, laird," returned the voice, and said no more.
@@ -18292,7 +18292,7 @@ yours."
 "Ye dinna think I wad tak it wantin' leave, Phemy!" returned the
 laird. "Mony a supper hae I made this w'y, an' mony anither I houp
 to mak. It'll no be this sizzon though, for this lot's the last o'
-them. They're fine aitin', but I'm some feart they winna keep."
+them. They're fine aitin', but  some feart they winna keep."
 
 "Wha gae ye leave, sir?" persisted Phemy showing herself the
 indivertible guardian of his morals as well as of his freedom.
@@ -18304,7 +18304,7 @@ pit ane on to you?"
 
 "Ow, na; but I'll tell him the neist time I see him."
 
-"I 'm nae for ony," said Phemy.
+" nae for ony," said Phemy.
 
 The fish wanted little cooking. The laird turned it, and after
 another half minute of the fire, took it up by the tail, sat down
@@ -18414,7 +18414,7 @@ The proposal fell on Malcolm like a great billow.
 mark o' yer freen'ship 'at ye never spak the word to me. What richt
 has ony man to ca' that wuman my mither? I hae never allooed it!"
 
-"I 'm thinkin'," returned Joseph, the more easily nettled that
+"I'm thinkin'," returned Joseph, the more easily nettled that
 his horizon also was full of trouble, "your word upo' the maitter
 winna gang sae far 's John o' Groat's. Ye 'll no be suppeent for
 your witness upo' the pint."
@@ -18533,7 +18533,7 @@ disappeart thegither, naebody kens whaur."
 Mrs Stewart laughed a low unpleasant laugh, but made no other reply.
 Malcolm went on.
 
-"An' it's no to be wonnert at gien fowk wull hae 't 'at ye maun
+"An' it 's no to be wonnert at gien fowk wull hae 't 'at ye maun
 ken something aboot it, mem."
 
 "I know nothing whatever," she returned emphatically. "Believe
@@ -18558,7 +18558,7 @@ turning even his face.
 "Think what you could do for your poor witless brother, if--"
 
 "Mem," interrupted Malcolm, turning right round and drawing himself
-up in anger, "priv' 'at I 'm your son, an' that meenute I speir at
+up in anger, "priv' 'at  your son, an' that meenute I speir at
 you wha was my father."
 
 Mrs Stewart changed colour--neither with the blush of innocence
@@ -18700,7 +18700,7 @@ is--Think ye twice afore ye lippen to that Jean o' yours."
 a pipe amo' dry strae. What saw ye, Mistress Mellis?"
 
 "Ye needna speyk like that," returned Mrs Mellis, for Miss Horn's
-tone was threatening: "I'm no Jean."
+tone was threatening: " no Jean."
 
 "What saw ye?" repeated Miss Horn, more gently, but not less eagerly.
 
@@ -18737,7 +18737,7 @@ had the feelin's to mak use o' them sin' she left me."
 
 Miss Horn seemed struck.
 
-"I had on my black silk last nicht." she answered vaguely, and was
+"I had on my black silk last nicht," she answered vaguely, and was
 here silent, pondering doubtfully.
 
 "Weel, mem, jist ye put on yer black silk again the morn's nicht,
@@ -18751,7 +18751,7 @@ the wuman du?" said Miss Horn, with attempted confidence.
 "That ye sud ken best yersel', mem. But Jean's an awfu' gossip,
 an' a lady like yer cousin micht hae left dockiments ahint her 'at
 she wadna jist like to hear procleemt frae the hoose tap. No 'at
-she 'll ever hear onything mair, puir thing!"
+she'll ever hear onything mair, puir thing!"
 
 "What mean ye?" cried Miss Horn, half frightened, half angry.
 
@@ -18774,7 +18774,7 @@ jeedge for yersel': it 's nae business o' mine."
 's merried fowk sleeps in ae bed, it 's ill to haud onything till
 a body's sel'."
 
-"Mr Mellis is a douce man, an' I carena what he kens." answered
+"Mr Mellis is a douce man, an' I carena what he kens," answered
 Miss Horn.
 
 She descended to the shop, and having bought bulk enough to account
@@ -18786,22 +18786,22 @@ the bell like a bullet.
 
 "Mem?" said Jean.
 
-"Jean, I'm gaein' oot the nicht. The minister oucht to be spoken
+"Jean,  gaein' oot the nicht. The minister oucht to be spoken
 till aboot the schuilmaister, honest man. Tak the lantren wi' ye
 to the manse aboot ten o'clock. That 'll be time eneuch."
 
-"Verra weel, mem. But I'm thinkin' there's a mune the nicht."
+"Verra weel, mem. But  thinkin' there's a mune the nicht."
 
-"Naething but the doup o' ane, Jean. It 's no to ca' a mune. It's
+"Naething but the doup o' ane, Jean. It's no to ca' a mune. It's
 a mercy we hae lantrens, an' sic a sicht o' cairds (gipsies) aboot."
 
 "Ay, lantren lats them see whaur ye are, an' haud oot o' yer gait,"
 said Jean, who happened not to relish going out that night.
 
-"Troth, wuman, ye 're richt there!" returned her mistress, with
+"Troth, wuman, ye're richt there!" returned her mistress, with
 cheerful assent. "The mair they see o' ye, the less they 'll meddle
 wi' ye--caird or cadger. Haud ye the licht upo' yer ain face,
-lass, an' there 's feow 'll hae the hert to luik again."
+lass, an' there's feow 'll hae the hert to luik again."
 
 "Haith, mem, there's twa sic like o' 's!" returned Jean bitterly,
 and bounced from the room.
@@ -18809,7 +18809,7 @@ and bounced from the room.
 "That's true tu," said her mistress--adding after the door was
 shut, "It's a peety we cudna haud on thegither."
 
-"I'm gaein' noo, Jean," she called into the kitchen as she crossed
+" gaein' noo, Jean," she called into the kitchen as she crossed
 the threshold at eight o'clock.
 
 She turned towards the head of the street, in the direction of the
@@ -18942,7 +18942,7 @@ took the pains to mak ane. Dinna think onything atween you an' her
 wad hae brocht me at this time o' nicht to disturb ye in yer ain
 chaumer. Na, na! Whatever was atween you twa had an honest man intill
 't, an' I wad hae taen my time to gie ye back yer dockiments. But
-there 's some o' anither mark here."
+there's some o' anither mark here."
 
 As she spoke, she drew from the parcel a small cardboard box,
 broken at the sides, and tied with a bit of tape. This she undid
@@ -18983,8 +18983,8 @@ hank!" exclaimed Miss Horn.
 
 "Weel, I maun gar ye un'erstan' me. There's things whiles, Sandy
 Graham, 'at 's no easy to speyk aboot--but I hae nae feelin's,
-an' we 'll a' be deid or lang, an' that's a comfort. Man 'at ye
-are, ye 're the only human bein' I wad open my moo' till aboot this
+an' we'll a' be deid or lang, an' that's a comfort. Man 'at ye
+are, ye're the only human bein' I wad open my moo' till aboot this
 maitter, an' that's 'cause ye lo'e the memory o' my puir lassie,
 Grizell Cam'ell."
 
@@ -19117,7 +19117,7 @@ said.
 
 Miss Horn looked up: there was no one there.
 
-"That 's it! he's awa' again! That's the w'y he 's been duin' this
+"that's it! he's awa' again! That's the w'y he 's been duin' this
 last hoor, at least, to my knowledge. I saw him watchin' ilka mov'
 ye made, mem, a' the time ye was doon upo' the shore--an there
 he is noo, or was a meenute ago, at the heid o' the brae, glowerin'
@@ -19128,7 +19128,7 @@ the een oot o' 's heid at ye, mem!"
 "No, mem--'cep' by sicht o' ee; he hasna been lang aboot the
 toon. Some fowk sae he's dementit; but he's unco quaiet, speyks to
 nobody, an' gien onybody speyk to him, jist rims. Cud he be kennin'
-you, no? Ye 're a stranger here, mem."
+you, no? ye're a stranger here, mem."
 
 "No sic a stranger, John!" returned Miss Horn, calling the man by
 his name, for she recognized him as the beadle of the parish church.
@@ -19142,7 +19142,7 @@ God made ane. But he 's sair afflickit. Whaur does he lie at nicht
 
 "I ken naething aboot him, mem, by what comes o' seein' him sic
 like 's the day, an' ance teetin (peering) in at the door o' the
-kirk. I wad hae weised him till a seat, but the moment II luikit at
+kirk. I wad hae weised him till a seat, but the moment I luikit at
 him, awa' he ran. He 's unco cheenged though, sin' the first time
 I saw him."
 
@@ -19296,7 +19296,7 @@ little pause. "Dr Blare is going to preach."
 
 "Will ye hae me, Mr Bigg?"
 
-"Most willingly, ma'am; and we 'll be still better pleased if you
+"Most willingly, ma'am; and we'll be still better pleased if you
 'll sit down with us to the Lord's table afterwards."
 
 "I gang to the perris kirk, ye ken," said Miss Horn, supposing the
@@ -19428,7 +19428,7 @@ ta plood royal!"
 "There didna leuk to be muckle royalty aboot auld John, honest man,
 wha cudna rule a wife, though he had but ane!" returned Miss Horn.
 
-"If you 'll please, mem, ton't you'll pe too sherp on ta poor man
+"If you'll please, mem, ton't you'll pe too sherp on ta poor man
 whose wife will not pe ta coot wife. If ta wife will pe ta paad
 wife, she will pe ta paad wife however, and ta poor man will pe
 hafing ta paad wife and ta paad plame of it too, and tat will pe
@@ -19461,11 +19461,11 @@ telling lies."
 hers, hoo sma' fowk hauds the chance o' his bein' a Stewart, for
 a' that!"
 
-"She 'll not pe comprestanding you," said Duncan, bewildered.
+"she'll not pe comprestanding you," said Duncan, bewildered.
 
 "He's a wise son 'at kens his ain faither!" remarked Miss Horn,
 with more point than originality. "The leddy never bore the best
-o' characters, as far 's my memory taks me,--an' that 's back
+o' characters, as far 's my memory taks me,--an' that's back
 afore John an' her was merried ony gait. Na, na; John Stewart never
 took a dwaum 'cause Ma'colm MacPhail was upo' the ro'd."
 
@@ -19485,7 +19485,7 @@ tat he wouldn't pe hafing her?"
 
 "Ye wadna hae him spread an ill report o' his ain mither?"
 
-"Put she 'll not pe his mother, and you 'll not pelieve it, mem."
+"Put she'll not pe his mother, and you'll not pelieve it, mem."
 
 "Ye canna priv that--you nor him aither."
 
@@ -19515,14 +19515,14 @@ asked Miss Horn, who had been meditating.
 
 "Wha drest the bairn till ye?"
 
-"Och! she 'll trest him herself." said Duncan, still jealous of
+"Och! she'll trest him herself," said Duncan, still jealous of
 the women who had nursed the child.
 
 "But no aye?" suggested Miss Horn.
 
 "Mistress Partan will pe toing a coot teal of tressing him, sometimes.
-Mistress Partan is a coot 'oman when she 'll pe coot--fery coot
-when she 'll be coot."
+Mistress Partan is a coot 'oman when she'll pe coot--fery coot
+when she'll pe coot."
 
 Here Malcolm entered, and Miss Horn told him what she had seen of
 the laird, and gathered concerning him.
@@ -19535,7 +19535,7 @@ that. Hae ye onything by w'y o' coonsel, mem?"
 gotten. He mayna ken what 's happent her, but he may tell ye the
 last he saw o' her, an' that maun be mair nor ye ken."
 
-"He 's taen sic a doobt o' me 'at I 'm feart it 'll be hard to come
+"He 's taen sic a doobt o' me 'at  feart it 'll be hard to come
 at him, an' still harder to come at speech o' 'im, for whan he 's
 frichtit he can hardly muv is jawbane--no to say speyk. I maun
 try though and du my best. Ye think he's lurkin' aboot Fife Hoose,
@@ -19551,8 +19551,8 @@ doobt."
 "Malcolm, my son," interjected Duncan, who had been watching for
 the conversation to afford him an opening, "if you'll pe meeting
 any one will caal you ta son of tat woman, gif him a coot plow in
-ta face, for you 'll pe no son of hers, efen if she'll proof it--
-no more as hersel. If you 'll pe her son, old Tuncan will pe tisown
+ta face, for you'll pe no son of hers, efen if she'll proof it--
+no more as hersel. If you'll pe her son, old Tuncan will pe tisown
 you for efer, and efermore, amen."
 
 "What's broucht you to this, daddie?" asked Malcolm, who, ill as
@@ -19564,7 +19564,7 @@ Stewart 'll not can pe your mother."
 
 Malcolm turned to Miss Horn.
 
-"I 've said naething to Maister MacPhail but what I 've said mair
+"I've said naething to Maister MacPhail but what I've said mair
 nor ance to yersel', laddie," she replied to the eager questioning
 of his eyes. "Gang yer wa's. The trowth maun cow the lee i' the
 lang rin. Aff wi' ye to Blue Peter!"
@@ -19582,7 +19582,7 @@ closet, where, the door being partly open, she had been listening
 with all her might, and was now weeping afresh. Joseph was the
 first to speak: still rocking himself with hopeless oscillation, he
 said, in a strange muffled tone which seemed to come from somewhere
-else--"Gien I kent she was weel deid I wadna care. It 's no like
+else--"Gien I kent she was weel deid I wadna care. It's no like
 a father to be sittin' here, but whaur 'll I gang neist? The wife
 thinks I micht be duin' something: I kenna what to du. This last
 news is waur nor mane. I hae maist nae faith left. Ma'colm, man!"
@@ -19602,7 +19602,7 @@ grum'le: but dinna tak the faith frae 's."
 He remained on his knees silent, with his head against the chimney
 jamb. His wife crept away to her closet.
 
-"Peter," said Malcolm, "I'm gaein' aff the nicht to luik for the
+"Peter," said Malcolm, " gaein' aff the nicht to luik for the
 laird, and see gien he can tell 's onything aboot her: wadna ye
 better come wi' me?"
 
@@ -19712,7 +19712,7 @@ also, she knew, disliked Miss Horn.
 "Ay! an' what micht that be?"
 
 "But she's maybe a freen' o' yours, Mrs Findlay? Some fowk likes
-her, though I canna say I'm ane o' them."
+her, though I canna say  ane o' them."
 
 "Freen' o' mine!" exclaimed the Partaness. "We gree like twa bills
 (bulls) i' the same park!"
@@ -19725,10 +19725,10 @@ an' maist fellt him! An' that's Meg Horn!"
 "She had been at the drink! But I never h'ard it laid till her
 afore."
 
-"Didna ye than? Weel, I'm no sayin' onything--that's what I
+"Didna ye than? Weel,  no sayin' onything--that's what I
 h'ard."
 
-"Ow, it's like eneuch! She was bulliraggin' at me nae langer ago
+"Ow, it 's like eneuch! She was bulliraggin' at me nae langer ago
 nor thestreen; but I doobt I sent her awa' wi' a flech (flea) in
 her lug!"
 
@@ -19743,12 +19743,12 @@ daft to think 'at ever he got the breast o' me. 'At he sud sair
 (serve) me sae! But I s' hae a grip o' 'im yet, or my name 's no
 --what they ca' me."
 
-"It 's the w'y o' the warl', Mistress Findlay. What cud ye expec'
+"It's the w'y o' the warl', Mistress Findlay. What cud ye expec'
 o' ane born in sin an' broucht furth in ineequity?"--a stock
 phrase of Mrs Catanach's, glancing at her profession, and embracing
 nearly the whole of her belief.
 
-"It 's a true word. The mair 's the peety he sud hae hed the milk
+"It's a true word. The mair 's the peety he sud hae hed the milk
 o' an honest wuman upo' the tap o' that!"
 
 "But what cud the auld runt be efter? What was her business wi'
@@ -19843,7 +19843,7 @@ hers; and the other, which was odd enough, yielded and listened.
 div ye think?" said Mrs Mair.
 
 "Ow, surely!" was the response; "it maun du that. There no respec'
-o' persons wi' him. There 's no a doobt but yer Phemy 'ill come
+o' persons wi' him. there's no a doobt but yer Phemy 'ill come
 hame to ye safe an' soon'."
 
 "I was thinkin' aboot Lizzy," said the other, a little astonished;
@@ -20067,7 +20067,7 @@ feelin's will not alloo him the teetle--Guid forbid it!"
 
 "You are plain spoken."
 
-"I 'm plain made, my lord. I ken guid frae ill, an' little forbye,
+" plain made, my lord. I ken guid frae ill, an' little forbye,
 but aye fand that eneuch to sare my turn. Aither thae letters o'
 yer lordship's are ilk ane o' them a lee, or ye desertit yer wife
 an' bairn."
@@ -20091,28 +20091,28 @@ oot o' my sicht, or ance--"
 The marquis leaped rather than started to his feet, exclaiming,
 "What in the name of God do you mean, woman?"
 
-"I kenna what ye mean, my lord. I ken 'at I 'm but tellin' ye the
+"I kenna what ye mean, my lord. I ken 'at  but tellin' ye the
 trouth whan I tell ye 'at Grizel Cam'ell, up to that day,
-an' that 's little ower sax month sin' syne."
+an' that's little ower sax month sin' syne."
 
 "Good God!" cried the marquis; "and here have I--Woman! are you
 speaking the truth? If--," he added threateningly, and paused.
 
-"Leein' 's what I never cud bide, my lord, an' I 'm no likly to
+"Leein' 's what I never cud bide, my lord, an'  no likly to
 tak till 't at my age, wi' the lang to come afore me."
 
 The marquis strode several times up and down the floor. "I 'll
 give you a thousand pounds for those letters," he said, suddenly
 stopping in front of Miss Horn.
 
-"They 're o' nae sic worth, my lord--I hae yer ain word for 't.
+"they're o' nae sic worth, my lord--I hae yer ain word for 't.
 But I carena the leg o' a spin maggie (daddy longlegs)! Pairt wi'
 them I will not, 'cep' to him 'at pruves himsel' the richtfu' heir
 to them."
 
 "A husband inherits from his wife."
 
-"Or maybe her son micht claim first--I dinna ken. But there 's
+"Or maybe her son micht claim first--I dinna ken. But there's
 lawyers, my lord, to redd the doot."
 
 "Her son! You don't mean--"
@@ -20121,9 +20121,9 @@ lawyers, my lord, to redd the doot."
 
 "God in heaven!"
 
-"His name 's mair i' yer mou' nor i' yer hert, I 'm doobtin', my
+"His name 's mair i' yer mou' nor i' yer hert,  doobtin', my
 lord! Ye a' cry oot upo' him--the men o' ye--whan ye' 're in
-ony tribble, or want to gar women believe ye! But I 'm thinkin' he
+ony tribble, or want to gar women believe ye! But  thinkin' he
 peys but little heed to sic prayers."
 
 Thus Miss Horn; but Lord Lossie was striding up and down the room,
@@ -20140,10 +20140,10 @@ of a gulf of pain.
 "Then what the devil," roared the marquis, "do you mean by coming
 to me with such a cock and bull story."
 
-"There 's naither cock craw nor bill rair intill 't my lord. I cum
+"there's naither cock craw nor bill rair intill 't my lord. I cum
 to you wi' 't i' the houp ye 'll help to redd (clear) it up, for
-I dinna weel ken what we can du wantin' ye. There 's but ane kens
-a' the truth o' 't, an' she 's the awfu'es leear oot o' purgatory
+I dinna weel ken what we can du wantin' ye. there's but ane kens
+a' the truth o' 't, an' she's the awfu'es leear oot o' purgatory
 --no 'at I believe in purgatory, but it 's the langer an' lichter
 word to mak' use o'."
 
@@ -20199,7 +20199,7 @@ in her grave. My brother sent me word that she died in childbed,
 and the child with her. I was then in Brussels with the Duke."
 
 Miss Horn made three great strides, caught the marquis's hand in
-both hers, and said, "I praise God ye 're an honest man, my lord."
+both hers, and said, "I praise God ye're an honest man, my lord."
 
 "I hope so," said the marquis, and seized the advantage "You'll hold
 your tongue about this ?" he added, half inquiring, half requesting.
@@ -20244,10 +20244,10 @@ door.
 the little note, which he had carried all the time between his
 finger and thumb.
 
-"There 's nae occasion. I hae plenty wantin' that. Only dinna lea'
+"there's nae occasion. I hae plenty wantin' that. Only dinna lea'
 't lyin' aboot."
 
-"There 's small danger of that," said the marquis, and rang the
+"there's small danger of that," said the marquis, and rang the
 bell.
 
 The moment she was out of the way, he went up to his own room, and,
@@ -20325,7 +20325,7 @@ warnings, but as old threats now rapidly approaching fulfilment.
 Lovely still peered the dim face of his girl wife upon him, through
 the dusty lattice of his memory; and a mighty corroboration of
 Malcolm's asserted birth lay in the look upon his face as he hurried
-aghast from the hermit's cell; for not on his first had the marquis
+aghast from the hermit 's cell; for not on his first had the marquis
 seen that look and in those very circumstances! And the youth was
 one to be proud of--one among a million! But there were other
 and terrible considerations.
@@ -20390,7 +20390,7 @@ kent noucht aboot the lassie, an 'maist lost his wuts at the news."
 
 "Make haste then."
 
-"I 'm some fain to gang back to the fishin', my lord," said Malcolm.
+" some fain to gang back to the fishin', my lord," said Malcolm.
 "This is ower easy a life for me. The deil wins in for the liftin'
 o' the sneck. Forbye, my lord, a life wi'oot aither danger or wark
 's some wersh-like (insipid); it wants saut, my lord. But a' that
@@ -20436,7 +20436,7 @@ have some regard for your young mistress, I know, Malcolm."
 
 "I wad dee for her, my lord."
 
-"That 's a common assertion," said the marquis.
+"That's a common assertion," said the marquis.
 
 "No wi' fisher fowk. I kenna hoo it may be wi' your fowk, my lord."
 
@@ -20457,7 +20457,7 @@ hasna the thing a' its ain gait."
 
 "You certainly have pretty high notions of things, MacPhail. For
 my part, I can easily enough imagine a man risking his life; but
-devoting it!--that 's another thing altogether."
+devoting it!--that's another thing altogether."
 
 "There maun be 'at wad du a' 't cud be dune, my lord."
 
@@ -20474,7 +20474,7 @@ me."
 
 "But supposing you came to inherit the Kirkbyres property?"
 
-"My lord," said Malcolm solemnly, "that 's a puir test to put me
+"My lord," said Malcolm solemnly, "that's a puir test to put me
 till. It gangs for naething. I wad raither clean my leddie's butes
 frae mornin' to nicht, nor be the son o' that wuman, gien she war
 a born duchess. Try me wi' something worth yer lordship's mou'."
@@ -20600,8 +20600,8 @@ about him as if he had just come back from Hades, but in his silent
 bearing there was a sanity, even dignity, which strangely impressed
 her. He came forward a pace or two, stopped, and said--
 
-"Dinna be frichtit, mem. I 'm come. Sen' the lassie hame, an' du
-wi' me as ye like. I canna haud aff o' me. But I think I 'm deein',
+"Dinna be frichtit, mem.  come. Sen' the lassie hame, an' du
+wi' me as ye like. I canna haud aff o' me. But I think  deein',
 an ye needna misguide me."
 
 His voice, although it trembled a little, was clear and unimpeded,
@@ -20659,7 +20659,7 @@ to speir gien ye wad obleege her by gaein' to see him."
 
 "Has he ta'en till 's bed?" asked Malcolm.
 
-"We pat him till 't, sir. He 's ravin' mad, an' I 'm thinkin' he
+"We pat him till 't, sir. He 's ravin' mad, an'  thinkin' he
 's no far frae his hin'er en'."
 
 "I 'll gang wi' ye direckly," said Malcolm.
@@ -20680,7 +20680,7 @@ Mrs Stewart met him with red eyes.
 
 "I wull du that, mem. Is he verra ill?"
 
-"Very. I 'm afraid he is in a bad way."
+"Very.  afraid he is in a bad way."
 
 She led him to a dark old fashioned chamber, rich and gloomy.
 There, sunk in the down of a huge bed with carved ebony posts, lay
@@ -20720,7 +20720,7 @@ not be certain that he had not himself shaped the words by receiving
 the babble into the moulds of the laird's customary thought and
 speech.
 
-"I dinna ken whaur I cam frae!--I kenna whaur I 'm gaein' till.
+"I dinna ken whaur I cam frae!--I kenna whaur  gaein' till.
 --Eh, gien he wad but come oot an' shaw himsel'!--O Lord! tak
 the deevil aff o' my puir back.--O Father o' lichts! gar him tak
 the hump wi' him. I hae nae fawvour for 't, though it 's been my
@@ -20741,7 +20741,7 @@ I hae lain safter afore I dee'd!--Phemy! Phemy! Rin, Phemy, rin!
 I s' bide wi' them this time. Ye rin, Phemy!"
 
 As it grew dark, the air turned very chill, and snow began to fall
-thick and fast Malcolm laid a few sticks on the smouldering peat
+thick and fast. Malcolm laid a few sticks on the smouldering peat
 fire, but they were damp and did not catch. All at once the laird
 gave a shriek, and crying out, "Mither, mither!" fell into a fit
 so violent that the heavy bed shook with his convulsions. Malcolm
@@ -20769,7 +20769,7 @@ on a fast pony, who pulled up as he neared him.
 
 "Whaur are ye for?" asked Malcolm.
 
-"I'm gaein' for Mistress Cat'nach," answered the boy.
+" gaein' for Mistress Cat'nach," answered the boy.
 
 "Gang yer wa's than, an' dinna haud the deid waitin'," said Malcolm,
 with a shudder.
@@ -20793,7 +20793,7 @@ Duncan's voice.
 The piper was sitting on a fallen tree, with the snow settling
 softly upon him.
 
-"But it's ower cauld for ye to be sittin' there i' the snaw, an'
+"But it 's ower cauld for ye to be sittin' there i' the snaw, an'
 the mirk tu!" added Malcolm.
 
 "Ta tarkness will not be ketting to ta inside of her," returned
@@ -20801,16 +20801,16 @@ the seer. "Ah, my poy! where ta light kets in, ta tarkness will pe
 ketting in too. Tis now, your whole pody will pe full of tarkness,
 as ta piple will say, and Tuncan's pody--tat will pe full of ta
 light." Then with suddenly changed tone he said "Listen, Malcolm,
-my son! She 'll pe fery uneasy till you 'll wass pe come home."
+my son! she'll pe fery uneasy till you'll wass pe come home."
 
 "What's the maitter noo, daddy?" returned Malcolm. "Ony thing wrang
 aboot the hoose?"
 
-"Someting will pe wrong, yes, put she 'll not can tell where. No,
+"Someting will pe wrong, yes, put she'll not can tell where. No,
 her pody will not pe full of light! For town here in ta curset
 Lowlands, ta sight has peen almost cone from her, my son. It will
-now pe no more as a co creeping troo' her, and she 'll nefer see
-plain no more till she 'll pe cone pack to her own mountains."
+now pe no more as a co creeping troo' her, and she'll nefer see
+plain no more till she'll pe cone pack to her own mountains."
 
 "The puir laird's gane back to his," said Malcolm. "I won'er gien
 he kens yet, or gien he gangs speirin' at ilk ane he meets gien he
@@ -20923,14 +20923,14 @@ glass of port.
 
 "The what?" shouted the marquis.
 
-"That's what they call it, my lord. It 's all along of having that
+"That's what they call it, my lord. It's all along of having that
 wizard's chamber in the house, my lord."
 
 "You're a set of fools," said the marquis, "the whole kit of you!"
 
 "That's what I say, my lord. I don't know what to do with them,
 stericking and screaming. Mrs Courthope is trying her best with
-them; but it's my belief she's about as bad herself."
+them; but it 's my belief she's about as bad herself."
 
 The marquis finished his glass of wine, poured out and drank another,
 then walked to the door. When the butler opened it, a strange sight
@@ -20957,8 +20957,8 @@ outcry. But Malcolm at once recovered himself.
 out.
 
 In a few minutes he returned--during which all had been still.
-"Noo, daddy," he said, "I'm gaein' to drive in the door o' the
-neist room. There 's some deevilry at wark there. Stan' ye i' the
+"Noo, daddy," he said, " gaein' to drive in the door o' the
+neist room. there's some deevilry at wark there. Stan' ye i' the
 door, an' ghaist or deevil 'at wad win by ye, grip it, an' haud on
 like Demon the dog."
 
@@ -21062,8 +21062,8 @@ to pe killing her! Och nan ochan!"
 
 "Her husband!" echoed the marquis.
 
-"Ach! she 'll not can pe helping it, my lort--no more till one
-will pe tead--and tat should pe ta woman, for she 'll pe a paad
+"Ach! she'll not can pe helping it, my lort--no more till one
+will pe tead--and tat should pe ta woman, for she'll pe a paad
 woman--ta worstest woman efer was married, my lort."
 
 "That's saying a good deal," returned the marquis.
@@ -21109,10 +21109,10 @@ not can help you, and it 'll pe preaking her old heart!"
 "Gien God thoucht the Cam'ells worth makin', daddy, I dinna see
 'at I hae ony richt to compleen 'at I cam' o' them."
 
-"She hopes you 'll pe forgifing ta plind old man, however. She
-could n't see, or she would haf known at once petter."
+"She hopes you'll pe forgifing ta plind old man, however. She
+couldn't see, or she would haf known at once petter."
 
-"I dinna ken what ye 're efter noo, daddy," said Malcolm.
+"I dinna ken what ye're efter noo, daddy," said Malcolm.
 
 "That she'll do you a creat wrong, and she'll be ferry sorry for
 it, my son."
@@ -21123,7 +21123,7 @@ it, my son."
 ta paad plood was pe in you, she wouldn't pe tone you ta wrong as
 pring you up."
 
-"That 's a wrang no ill to forgi'e, daddy. But it 's a pity ye
+"That's a wrang no ill to forgi'e, daddy. But it 's a pity ye
 didna lat me lie, for maybe syne Mistress Catanach wad hae broucht
 me up hersel', an' I micht hae come to something."
 
@@ -21136,7 +21136,7 @@ my son."
 ta Cam'ell plood, my son! Malcolm, my poy," he added after a pause,
 and with the solemnity of a mighty hate, "ta efil woman herself
 will pe a Cam'ell--ta woman Catanach will pe a Cam'ell, and her
-nain sel' she'll not know it pefore she 'll be in ta ped with the
+nain sel' she'll not know it pefore she'll be in ta ped with the
 worsest Cam'ell tat ever God made--and she pecks his pardon, for
 she'll not pelieve he wass making ta Cam'ells."
 
@@ -21147,7 +21147,7 @@ The old man thought for a little.
 "Tat will tepend on who was pe your father, my son," he replied.
 "If he too will be a Cam'ell--ochone! ochone! Put tere may pe
 some coot plood co into you, more as enough to say God will pe make
-you, my son. Put don't pe asking, Malcolm. Ton't you 'll pe asking."
+you, my son. Put don't pe asking, Malcolm. Ton't you'll pe asking."
 
 "What am I no to ask, daddy?"
 
@@ -21197,11 +21197,11 @@ moment the door was shut.
 "By this time, my lord, ye 'll doobtless hae made up yer min' to
 du what 's richt?" she said.
 
-"That 's what I have always wanted to do," returned the marquis.
+"that's what I have always wanted to do," returned the marquis.
 
 "Hm!" remarked Miss Horn, as plainly as inarticulately.
 
-"In this affair," he supplemented; adding, "It 's not always so
+"In this affair," he supplemented; adding, "It's not always so
 easy to tell what is right!"
 
 "It's no aye easy to luik for 't wi' baith yer een," said Miss
@@ -21235,9 +21235,9 @@ trouble with her.
 
 "Ye can du as yer lordship likes," answered Miss Horn; "but I wadna
 hae 't said o' me 'at I had ony dealin's wi' her. Wha kens but she
-micht say ye tried to bribe her? There 's naething she wad bogle
-at gien she thoucht it worth her while. No 'at I 'm feart at her.
-Lat her lee! I 'm no sae blate but--! Only dinna lippen till a
+micht say ye tried to bribe her? there's naething she wad bogle
+at gien she thoucht it worth her while. No 'at  feart at her.
+Lat her lee!  no sae blate but--! Only dinna lippen till a
 word she says, my lord."
 
 The marquis meditated.
@@ -21275,7 +21275,7 @@ Mistress Catanach wad see to that, gien 'twas only to spite me; an'
 I wunna hae my Grizel ca'd what she is not, for ony lord's dauchter
 i' the three kynriks."
 
-"What does it matter, now she 's dead and gone?" said the marquis,
+"What does it matter, now she's dead and gone?" said the marquis,
 false to the dead in his love for the living.
 
 "Deid an' gane, my lord! What ca' ye deid an' gane? Maybe the great
@@ -21283,7 +21283,7 @@ anes o' the yerth get sic a forlethie (surfeit) o' gran'ur 'at they
 're for nae mair, an' wad perish like the brute beast. For onything
 I ken, they may hae their wuss, but for mysel', I wad warstle to
 haud my sowl waukin' (awake), i' the verra article o' deith, for
-the bare chance o' seein' my bonny Grizel again.--It 's a mercy
+the bare chance o' seein' my bonny Grizel again.--It's a mercy
 I hae nae feelin's!" she added, arresting her handkerchief on its
 way to her eyes, and refusing to acknowledge the single tear that
 ran down her cheek.
@@ -21302,7 +21302,7 @@ there."
 "If Miss Campbell was his mother," said the marquis.
 
 "Miss Cam'ell!" cried Miss Horn. "I 'll thank yer lordship to ca'
-her by her ain, 'an that 's Lady Lossie."
+her by her ain, 'an that's Lady Lossie."
 
 What if the something ruinous heart of the marquis was habitable,
 was occupied by his daughter, and had no accommodation at present
@@ -21336,21 +21336,21 @@ back?"
 
 "Ye wasna tryin' me than: ye was duin' yer best to corrup' me."
 
-"I 'm no splitter of hairs."
+" no splitter of hairs."
 
 "My lord, it 's nane but the corrup'ible wad seek to corrup'."
 
 The marquis gnawed a nail or two in silence. Miss Horn dragged an
 easy chair within a couple of yards of him.
 
-"We 'll see wha tires o' this ghem first, my lord!" she said, as
+"we'll see wha tires o' this ghem first, my lord!" she said, as
 she sank into its hospitable embrace.
 
 The marquis turned to lock the door, but there was no key in it.
 Neither was there any chair within reach, and he was not fond of
 standing. Clearly his enemy had the advantage.
 
-"Hae ye h'ard o' puir Sandy Graham--hoo they 're misguidin' him,
+"Hae ye h'ard o' puir Sandy Graham--hoo they're misguidin' him,
 my lord?" she asked with composure.
 
 The marquis was first astounded, and then tickled by her assurance.
@@ -21371,7 +21371,7 @@ if he prefers it."
 "Softly, softly, ma'am!" returned the marquis. "I did not say he
 should go in that style."
 
-"He 's gang as my lord o' Colonsay, or he s' no gang at your expense,
+"He s' gang as my lord o' Colonsay, or he s' no gang at your expense,
 my lord," said his antagonist.
 
 "Really, ma'am, one would think you were my grandmother, to hear
@@ -21385,13 +21385,13 @@ The marquis laughed.
 "Well, I can't stand here all day!" he said, impatiently swinging
 one leg.
 
-"I 'm weel awaur o' that, my lord," answered Miss Horn, rearranging
+" weel awaur o' that, my lord," answered Miss Horn, rearranging
 her scanty skirt.
 
 "How long are ye going to keep me, then?"
 
 "I wadna hae ye bide a meenute langer nor 's agreeable to yersel'.
-But I 'm in nae hurry sae lang 's ye 're afore me. Ye 're nae ill
+But  in nae hurry sae lang 's ye're afore me. ye're nae ill
 to luik at--though ye maun hae been bonnier the day ye wan the
 hert o' my Grizzel."
 
@@ -21401,7 +21401,7 @@ to it; but there was the marquis again.
 "Miss Horn," he said, "I beg you will give me another day to think
 of this."
 
-"Whaur 's the use? A' the thinkin' i' the warl' canna alter a single
+"Whaur's the use? A' the thinkin' i' the warl' canna alter a single
 fac'. Ye maun du richt by my laddie o' yer ain sel', or I maun gar
 ye."
 
@@ -21447,7 +21447,7 @@ the more; and when he let go, the devil ran away with him.
 "I thoucht yer lordship wad like to see an auld stair I cam upo'
 the ither day, 'at gang's frae the wizard's chaumer."
 
-"Go to hell with your damned tomfoolery!" said the marquis "If ever
+"Go to hell with your damned tomfoolery!" said the marquis. "If ever
 you mention that cursed hole again, I'll kick you out of the house."
 
 Malcolm's eyes flashed, and a fierce answer rose to his lips, but
@@ -21684,7 +21684,7 @@ behauden to yer lordship. I houp I hae mair pride nor that. Ilka
 poun' not', shillin', an' baubee sud be laid oot for her, an' what
 was left hainet (saved) for her."
 
-"By Jove! it's a daring proposal!" said the marquis; and, which
+"By Jove! it 's a daring proposal!" said the marquis; and, which
 seemed strange to Malcolm, not a single thread of ridicule ran
 through the tone in which he made the remark.
 
@@ -21731,7 +21731,7 @@ his heart was touched.
 
 "It's not for myself, my lord," she answered.
 
-"I know: you think I 'm not fit to die; and, damn it! you are right.
+"I know: you think  not fit to die; and, damn it! you are right.
 Never one was less fit for heaven, or less willing to go to hell."
 
 "Wouldn't you like to see a clergyman, my lord?" she suggested,
@@ -21743,7 +21743,7 @@ controlled himself.
 "A clergyman!" he cried; "I would as soon see the undertaker. What
 could he do but tell me I was going to be damned--a fact I know
 better than he can? That is, if it 's not all an invention of the
-cloth, as, in my soul, I believe it is! I 've said so any time this
+cloth, as, in my soul, I believe it is! I've said so any time this
 forty years."
 
 "Oh, my lord, my lord! do not fling away your last hope."
@@ -21758,7 +21758,7 @@ The marquis laughed--that is, he tried, failed, and grinned.
 "Mr Cairns is in the dining room, my lord."
 
 "Bah! A low pettifogger, with the soul of a bullock! Don't let me
-hear the fellow's name. I 've been bad enough, God knows! but I
+hear the fellow's name. I've been bad enough, God knows! but I
 haven't sunk to the level of his help yet. If he 's God Almighty's
 factor, and the saw holds--'Like master, like man!' well, I would
 rather have nothing to do with either."
@@ -21835,22 +21835,22 @@ gait, my lord," said Malcolm.
 
 The marquis laughed feebly.
 
-"An' what 's mair," Malcolm continued, "I doobt they 're some
+"An' what 's mair," Malcolm continued, "I doobt they're some
 partic'lar aboot the turn o' their phrases up yonner, my lord."
 
 The marquis looked at him keenly.
 
-"You don't anticipate that inconvenience for me?" he said. "I 'm
-pretty sure to have my billet where they 're not so precise."
+"You don't anticipate that inconvenience for me?" he said. "
+pretty sure to have my billet where they're not so precise."
 
 "Dinna brak my hert, my lord!" cried Malcolm, the tears rushing to
 his eyes.
 
 "I should be sorry to hurt you, Malcolm," rejoined the marquis gently,
-almost tenderly. "I won't go there if I can help it. I should n't
+almost tenderly. "I won't go there if I can help it. I shouldn't
 like to break any more hearts. But how the devil am I to keep out
 of it? Besides, there are people up there I don't want to meet; I
-have no fancy for being made ashamed of myself. The fact is I 'm
+have no fancy for being made ashamed of myself. The fact is I'm
 not fit for such company, and I don't believe there is any such
 place. But if there be, I trust in God there isn't any other, or it
 will go badly with your poor master, Malcolm. It doesn't look like
@@ -21866,16 +21866,16 @@ scarcely able to reply.
 
 "He's a' that an' mair, my lord. I didna mean him."
 
-"They 're all fools together.'
+"they're all fools together.'
 
-"Ow, na, my lord! There 's a heap o' them no muckle better, it may
-be; but there 's guid men an' true amang them, or the kirk wad hae
+"Ow, na, my lord! there's a heap o' them no muckle better, it may
+be; but there's guid men an' true amang them, or the kirk wad hae
 been wi' Sodom and Gomorrha by this time. But it 's no a minister
 I wad hae yer lordship confar wi'."
 
 "Who then? Mrs Courthope? Eh?"
 
-"Ow na, my lord--no Mistress Coorthoup! She 's a guid body, but
+"Ow na, my lord--no Mistress Coorthoup! she's a guid body, but
 she wadna believe her ain een gien onybody ca'd a minister said
 contrar' to them."
 
@@ -21884,7 +21884,7 @@ contrar' to them."
 "Nae deevil, but an honest man 'at 's been his warst enemy sae lang
 's I hae kent him: Maister Graham, the schuilmaister."
 
-"Pooh!" said the marquis with a puff. "I'm too old to go to school."
+"Pooh!" said the marquis with a puff. " too old to go to school."
 
 "I dinna ken the man 'at isna a bairn till him, my lord."
 
@@ -21902,7 +21902,7 @@ farther than my auld daddy's."
 
 "As weel 's ony man, my lord."
 
-"That 's not saying much, I fear."
+"that's not saying much, I fear."
 
 "Maybe mair nor ye think, my lord."
 
@@ -21945,9 +21945,9 @@ Mr Graham walked gently up to the bedside.
 
 "Sit down, sir," said the marquis courteously--pleased with the
 calm, self possessed, unobtrusive bearing of the man. "They tell
-me I 'm dying, Mr Graham."
+me  dying, Mr Graham."
 
-"I 'm sorry it seems to trouble you, my lord."
+" sorry it seems to trouble you, my lord."
 
 "What! wouldn't it trouble you then?"
 
@@ -21961,9 +21961,9 @@ me I 'm dying, Mr Graham."
 
 "About God."
 
-"And when you die you 'll go straight to heaven of course--"
+"And when you die you'll go straight to heaven of course--"
 
-"I don't know, my lord. That 's another thing I never trouble my
+"I don't know, my lord. that's another thing I never trouble my
 head about."
 
 "Ah! you 're like me then! I don't care much about going to heaven!
@@ -22001,7 +22001,7 @@ be the main point with your lordship."
 
 "To get nearer to God."
 
-"Well--I can't say I want to get nearer to God. It 's little he
+"Well--I can't say I want to get nearer to God. It's little he
 's ever done for me."
 
 "It's a good deal he has tried to do for you, my lord."
@@ -22172,7 +22172,7 @@ It was Mr Graham who broke the silence that followed.
 
 "Then you are of the same mind with God."
 
-"Yes but I'm not a fool! It won't do to say I should like to be:
+"Yes but  not a fool! It won't do to say I should like to be:
 I must be it, and that's not so easy. It's damned hard to be good.
 I would have a fight for it, but there's no time. How is a poor
 devil to get out of such an infernal scrape?"
@@ -22267,7 +22267,7 @@ shall be damned. Malcolm!"
 
 "Is there a lawyer in Portlossie?"
 
-"Yes, my lord; there 's auld Maister Carmichael."
+"Yes, my lord; there's auld Maister Carmichael."
 
 "He won't do! He was my brother's rascal. Is there no one besides?"
 
@@ -22320,7 +22320,7 @@ over his thin, pale, anxious face.
 "You don't know what depends on it," he said, "or you would have
 driven better. Where is Mr Soutar?"
 
-"I dinna ken, my lord. I'm only jist come, an' I've seen naebody."
+"I dinna ken, my lord.  only jist come, an' I've seen naebody."
 
 "Go and tell Mrs Courthope I want Soutar. You'll find her crying
 somewhere--the old chicken! because I swore at her. What harm
@@ -22329,7 +22329,7 @@ could that do the old goose?"
 "It'll be mair for love o' yer lordship than fricht at the sweirin',
 my lord."
 
-"You think so? Why should she care? Go and tell her I'm sorry.
+"You think so? Why should she care? Go and tell her  sorry.
 But really she ought to be used to me by this time! Tell her to
 send Soutar directly."
 
@@ -22476,7 +22476,7 @@ cheek to his.
 The marquis could not return her embrace; he could only receive
 her into the depths of his shining tearful eyes.
 
-"Flory!" he murmured, "I'm going away. I'm going--I've got--to
+"Flory!" he murmured, " going away.  going--I've got--to
 make an--apology. Malcolm, be good--"
 
 The sentence remained unfinished. The light paled from his countenance
@@ -22517,7 +22517,7 @@ of it, and ought to be the first to know of your recognition by
 your father."
 
 "I s' tell her mysel'," returned Malcolm. "But, gentlemen, I beg
-o' ye, till I ken what I 'm aboot an' gie ye leave, dinna open yer
+o' ye, till I ken what  aboot an' gie ye leave, dinna open yer
 moo' to leevin' cratur' aboot this. There's time eneuch for the
 warl' to ken 't."
 
@@ -22525,7 +22525,7 @@ warl' to ken 't."
 
 "Yes, Malcolm,--until you give me leave," said Mr Graham.
 
-"Whaur 's Mr Morrison?" asked Malcolm.
+"Whaur's Mr Morrison?" asked Malcolm.
 
 "He is still in the house," said Mr Soutar.
 
@@ -22549,7 +22549,7 @@ having conferred a great benefit, and expecting its recognition.
 "Mistress Catanach," interrupted Malcolm, turning and facing her,
 "gien I be un'er ony obligation to you, it 's frae anither tongue
 I maun hear 't. But I hae an offer to mak ye: Sae lang as it disna
-come oot 'at I 'm onything better nor a fisherman born, ye s' hae
+come oot 'at I'm onything better nor a fisherman born, ye s' hae
 yer twinty poun' i' the year, peyed ye quarterly. But the moment
 fowk says wha I am, ye touch na a poun' note mair, an' I coont
 mysel' free to pursue onything I can pruv agane ye."
@@ -22565,7 +22565,7 @@ and with it her natural brass, for as she spoke she held out her
 open palm.
 
 "Na, na!" said Malcolm, "nae forehan payments! Three months o'
-tongue haudin', an' there 's yer five poun'; an' Maister Soutar o'
+tongue haudin', an' there's yer five poun'; an' Maister Soutar o'
 Duff Harbour 'ill pay 't intill yer ain han'. But brak troth wi'
 me, an' ye s' hear o' 't; for gien ye war hangt, the warl' wad be
 but the cleaner. Noo quit the hoose, an' never lat me see ye aboot
